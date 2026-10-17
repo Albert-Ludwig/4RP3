@@ -1,0 +1,71 @@
+{
+  "unit_checks_passed": 5,
+  "unit_checks": [
+    "blocked splits and disjoint coordinates",
+    "reproducible synthetic generation and configurable noise",
+    "Gaussian marginal metric definitions",
+    "original Notebook class == migrated class == three-dimensional ARD RBF covariance",
+    "train-only scaling, latent/noisy variance, checkpoint selection, save/load and rerun reproducibility"
+  ],
+  "executed_notebook": "../../10.16_overall_results.ipynb",
+  "notebook_cells": 24,
+  "executed_code_cells": 11,
+  "notebook_errors": 0,
+  "fitted_cases_audited": 30,
+  "gp_metric_rows_recomputed": 60,
+  "reference_sources_unchanged": true,
+  "run_source_hashes_match": false,
+  "all_saved_splits_disjoint": true,
+  "train_scalers_match_training_coordinates": true,
+  "saved_metrics_match_saved_predictions": true,
+  "figures_visually_inspected": [
+    "figures/reconstruction_maps.png",
+    "figures/robustness.png",
+    "figures/calibration.png",
+    "figures/generalization.png"
+  ],
+  "runtime_notes": [
+    "Initial sandbox Notebook launch could not bind a local TCP port; executed successfully with authorized local kernel access.",
+    "Dependency emits a torch.jit.script deprecation warning; numerical experiment and checks completed.",
+    "Initial Matplotlib font-cache warnings did not prevent rendering; subsequent Notebook execution used local cache directories."
+  ],
+  "original_notebook_execution": {
+    "cells": 18,
+    "code_cells": 9
+  },
+  "post_reorganization_checks": {
+    "unit_tests_passed": 5,
+    "english_notebook_executed_without_errors": true,
+    "cli_default_output": "result/",
+    "virtual_environment_relocated": true,
+    "workspace_readme_untouched": true,
+    "experiment_readme_removed": true
+  },
+  "gp_only_record_refresh": {
+    "models_retrained": false,
+    "frozen_models_data_predictions_unchanged": true,
+    "protected_files_checked": 151,
+    "checkpoints_reloaded_and_predictions_verified": 30,
+    "gp_metrics_verified_against_saved_predictions": true,
+    "source_sha256": {
+      "gp_model.py": "48eca56ce0cebea0ffa508015e4a336c8c190c8a94036c641f1e077ac8474ff3",
+      "evaluation.py": "6bbf04162dcb90e82c7b55e09dac97870c074731a6c0d5f1a1ff36fa3af9b621",
+      "test_baseline.py": "3fc9719f35838b6ab8e8801b5fa2b766548d774c418514c134e4e4a6a133331d",
+      "experiment.py": "1e8b7b7f0b0bce6c2f3d0f374f4088ca1dceb601558c94970f7bab7ec41da78c",
+      "plots.py": "697a55433ef6e42a9b6235b6987264ab247246ce614d133ffb1103ed6f9e3cb0",
+      "refresh_result_records.py": "6f384ebc24a66ac8b43a931dd9894686d2cd9e5d2351fca7f6dfb0c53a78848e",
+      "experiment_paths.py": "9b513d95252c6eed9356f80bc6e410565941139be9fc66edff0ce826d43bc53a",
+      "synthetic_field.py": "6f075d087854b079910c33f96161cf5a7f989b7584704dae237fb30f9117247f"
+    }
+  },
+  "embedded_figure_count": 13,
+  "new_notebook_generated": true,
+  "consolidated_record_checks": {
+    "single_overall_notebook_and_readme": true,
+    "all_13_saved_figures_embedded_byte_identically": true,
+    "root_readme_links_verified": 5,
+    "all_9_unit_tests_passed": true,
+    "dashboard_gp_only_figures_visually_inspected": true
+  },
+  "source_record_note": "Original-run source hashes remain in manifest.json. Current GP-only source hashes are in gp_only_record_refresh; source formatting and result presentation were updated after the original fit. Frozen models and predictions are unchanged."
+}

@@ -1,0 +1,68 @@
+{
+  "created_utc": "2026-10-16T22:13:45.838016+00:00",
+  "python": "3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "packages": {
+    "torch": "2.14.1",
+    "gpytorch": "1.15.2",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "reference_sha256_before": {
+    "notebooks/05_real_field_simulation.ipynb": "ec9d729361349b3a0fa177efc2409c8cfe0feeb7f2cb97e85fb66e0fa7b2b2ff",
+    "notebooks/06_temporal_nonstationary.ipynb": "7ee2cba53a67dbb54f5c0ef7b08f82c7cd348e2f403d5b5f4c36986b55750079",
+    "notebooks/07_continuous_simulation.ipynb": "58865bb1afdb963ce306bef084a03c172dad847d9d6810130e8e8894c46e57d5",
+    "src/planners.py": "333b891689077bf9780c0879cd09167bf14ee3731bfd33011330054db485f1c1"
+  },
+  "reference_sha256_after": {
+    "notebooks/05_real_field_simulation.ipynb": "ec9d729361349b3a0fa177efc2409c8cfe0feeb7f2cb97e85fb66e0fa7b2b2ff",
+    "notebooks/06_temporal_nonstationary.ipynb": "7ee2cba53a67dbb54f5c0ef7b08f82c7cd348e2f403d5b5f4c36986b55750079",
+    "notebooks/07_continuous_simulation.ipynb": "58865bb1afdb963ce306bef084a03c172dad847d9d6810130e8e8894c46e57d5",
+    "src/planners.py": "333b891689077bf9780c0879cd09167bf14ee3731bfd33011330054db485f1c1"
+  },
+  "reference_unchanged": true,
+  "experiment_source_sha256": {
+    "gp_model.py": "95f17ed5f3a72af2b7847d87dc822e3710ef47a88507e45a8e0089e6890141b4",
+    "evaluation.py": "8c6f68ff3978aed0d9ea86129b2da06e503e0e678d5c2b0e9cbb7a7260d2c3a7",
+    "experiment.py": "9ed78e413f93955b582f4e1e50be0cde363d133dc9736f5b380fe8646f688d65",
+    "plots.py": "bca6809baf9cdf3e3de8ee13fcc68af7913cfbf8ff8cacf9a8c773ebaa3431d2",
+    "synthetic_field.py": "6f075d087854b079910c33f96161cf5a7f989b7584704dae237fb30f9117247f"
+  },
+  "elapsed_seconds": 25.41025395899851,
+  "scope": "Phases 0–2, synthetic data only",
+  "post_run_reorganization": {
+    "code_directory": "testing_code",
+    "result_directory": "result",
+    "current_source_sha256": {
+      "gp_model.py": "95f17ed5f3a72af2b7847d87dc822e3710ef47a88507e45a8e0089e6890141b4",
+      "evaluation.py": "8c6f68ff3978aed0d9ea86129b2da06e503e0e678d5c2b0e9cbb7a7260d2c3a7",
+      "test_baseline.py": "bfd9d5fc872ec9ec3fb919642b8fd8bf9ea5f6112f47fe131ebee8755eb8bdfe",
+      "experiment.py": "71954c230a1cca5ea9ff1bc6633b852cd0bc1281e870a40d5e5dea25366a3004",
+      "plots.py": "697a55433ef6e42a9b6235b6987264ab247246ce614d133ffb1103ed6f9e3cb0",
+      "synthetic_field.py": "6f075d087854b079910c33f96161cf5a7f989b7584704dae237fb30f9117247f"
+    },
+    "changes": "Relocation, path fixes, local cache configuration and concise English presentation. Original numerical results retained."
+  },
+  "folder_organization": {
+    "experiment_name": "3D_time&spatial temp field rebuild & prediction",
+    "code_directory": "10.16_testing_code/3D_time&spatial temp field rebuild & prediction",
+    "result_directory": "10.16_result/3D_time&spatial temp field rebuild & prediction",
+    "source_sha256_after_path_updates": {
+      "gp_model.py": "48eca56ce0cebea0ffa508015e4a336c8c190c8a94036c641f1e077ac8474ff3",
+      "evaluation.py": "8c6f68ff3978aed0d9ea86129b2da06e503e0e678d5c2b0e9cbb7a7260d2c3a7",
+      "test_baseline.py": "3fc9719f35838b6ab8e8801b5fa2b766548d774c418514c134e4e4a6a133331d",
+      "experiment.py": "56fccc4ad57aca420190bd0ab42bd7d45a2992483f01f3aa08691b3053acd34d",
+      "plots.py": "697a55433ef6e42a9b6235b6987264ab247246ce614d133ffb1103ed6f9e3cb0",
+      "experiment_paths.py": "9b513d95252c6eed9356f80bc6e410565941139be9fc66edff0ce826d43bc53a",
+      "synthetic_field.py": "6f075d087854b079910c33f96161cf5a7f989b7584704dae237fb30f9117247f"
+    },
+    "numerical_artifacts_sha256_preserved": 197,
+    "unit_checks_passed_after_move": 9,
+    "shared_gp_source": "10.16_testing_code/3D_time&spatial temp field rebuild & prediction/gp_model.py",
+    "note": "Only organization, import/output paths and documentation changed; original numerical results retained.",
+    "relocated_notebook_executed": true
+  }
+}

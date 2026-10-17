@@ -1,0 +1,41 @@
+{
+  "created_utc": "2026-10-17T02:57:26.214620+00:00",
+  "source_sha256": "d8159523632b3e879878e34b3dff17fba14be0cdba912f9074974acb84340b87",
+  "python": "3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "packages": {
+    "torch": "2.14.1",
+    "gpytorch": "1.15.2",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "source_code_sha256": {
+    "dashboard_experiment.py": "2cbf564f6b8c204dd8a0d70d8bdc9a480134d70a3a06a8263c368bff151db50a",
+    "gp_model.py": "e893c045cf0abc34682f40bfb04a139ac4984d704d499a8bf9498387a2db06f7",
+    "evaluation.py": "8c6f68ff3978aed0d9ea86129b2da06e503e0e678d5c2b0e9cbb7a7260d2c3a7"
+  },
+  "phase": 3,
+  "spatial_model": false,
+  "grg_run": false,
+  "post_run_documentation": {
+    "source_sha256": {
+      "dashboard_experiment.py": "a4700c6cc2c473b6702a200c38203c7733c0278a930048cc87957f96ffc2d688",
+      "gp_model.py": "48eca56ce0cebea0ffa508015e4a336c8c190c8a94036c641f1e077ac8474ff3",
+      "test_dashboard.py": "0b4f1fa767dfb2ab29227ac05c8f05a0337e83f5b7d01b3b9e63edec1124d452"
+    },
+    "note": "After the numerical run, documented earliest validation checkpoint and clarified shared-model docstrings; numerical training and prediction logic unchanged."
+  },
+  "folder_organization": {
+    "experiment_name": "dashboard time temp prediction",
+    "code_directory": "10.16_testing_code/dashboard time temp prediction",
+    "result_directory": "10.16_result/dashboard time temp prediction",
+    "source_sha256_after_path_updates": {
+      "test_dashboard.py": "2ea532b4b08521357336e599dcb05e2d4ff7c4eafff681059b38fc8fb41d24e8",
+      "dashboard_experiment.py": "b4afe1307e6789e18df9baac2df36fd3533941618dd026c6b644feea06b18f12"
+    },
+    "numerical_artifacts_sha256_preserved": 28,
+    "unit_checks_passed_after_move": 9,
+    "shared_gp_source": "10.16_testing_code/3D_time&spatial temp field rebuild & prediction/gp_model.py",
+    "note": "Only organization, import/output paths and documentation changed; original numerical results retained."
+  }
+}

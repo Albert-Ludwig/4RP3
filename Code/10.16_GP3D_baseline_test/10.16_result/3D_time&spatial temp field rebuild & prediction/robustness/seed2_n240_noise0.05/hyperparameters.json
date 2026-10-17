@@ -1,0 +1,34 @@
+{
+  "kernel": "ScaleKernel(RBF_ARD_xy * RBF_t) == 3D ARD RBF",
+  "lengthscales_scaled": [
+    1.1042371332547611,
+    1.3273638440792936,
+    1.1596151814850433
+  ],
+  "lengthscales_m_m_h": [
+    9.264273977476373,
+    10.760067105442511,
+    8.06097739610793
+  ],
+  "output_variance_c2": 1.3383577338485868,
+  "noise_variance_c2": 0.003473366508971461,
+  "mean_c": 18.07593389588988,
+  "selected_iteration": 60,
+  "selection": "minimum validation noisy marginal NLPD; no test selection",
+  "fit_seconds": 1.1686242499999935,
+  "scaler": {
+    "x_mean": [
+      15.016459300867462,
+      14.214700802757386,
+      12.13229223974518
+    ],
+    "x_std": [
+      8.389750442615291,
+      8.106343376337836,
+      6.951424511176858
+    ],
+    "y_mean": 18.65615688112031,
+    "y_std": 1.2226959504606643,
+    "fit_source": "training measurements only"
+  }
+}

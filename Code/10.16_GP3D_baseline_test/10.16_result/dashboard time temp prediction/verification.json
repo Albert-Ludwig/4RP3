@@ -1,0 +1,52 @@
+{
+  "unit_checks_passed": 9,
+  "existing_synthetic_checks_passed": 5,
+  "new_dashboard_checks_passed": 4,
+  "dashboard_checks": [
+    "Disjoint gap splits and strictly chronological forecast/refit splits",
+    "Temporal kernel equals the fixed-location slice of the 3D RBF product",
+    "Fixed-budget refit, observation-noise variance and 1D checkpoint restoration",
+    "Previous 3D checkpoints reproduce their saved predictions"
+  ],
+  "source_csv_hash_unchanged": true,
+  "saved_raw_copy_matches_source": true,
+  "saved_posteriors_match_reloaded_checkpoints": true,
+  "scalers_match_training_measurements_only": true,
+  "forecast_test_not_used_for_fitting_or_selection": true,
+  "forecast_refit_iterations_equal_validation_selected_budget": true,
+  "forecast_selected_iteration": 1,
+  "forecast_early_checkpoint_limitation_reported": true,
+  "local_readme_links_verified": 40,
+  "new_notebook_generated": true,
+  "figures_visually_inspected": [
+    "figures/raw_temperature.png",
+    "figures/gap_reconstruction.png",
+    "figures/future_forecast.png",
+    "figures/calibration.png"
+  ],
+  "gp_only_record_refresh": {
+    "models_retrained": false,
+    "frozen_models_data_predictions_unchanged": true,
+    "protected_files_checked": 14,
+    "checkpoints_reloaded_and_predictions_verified": 2,
+    "gp_metrics_verified_against_saved_predictions": true,
+    "source_sha256": {
+      "test_dashboard.py": "2ea532b4b08521357336e599dcb05e2d4ff7c4eafff681059b38fc8fb41d24e8",
+      "dashboard_experiment.py": "4872dfa8d4e01c22caae97b9125f60e188640415ea78441cb0b2064f9f340e0f"
+    }
+  },
+  "executed_notebook": "../../10.16_overall_results.ipynb",
+  "notebook_cells": 24,
+  "executed_code_cells": 11,
+  "notebook_errors": 0,
+  "embedded_figure_count": 13,
+  "consolidated_record_checks": {
+    "single_overall_notebook_and_readme": true,
+    "all_13_saved_figures_embedded_byte_identically": true,
+    "root_readme_links_verified": 5,
+    "all_9_unit_tests_passed": true,
+    "dashboard_gp_only_figures_visually_inspected": true
+  },
+  "run_source_hashes_match": false,
+  "source_record_note": "Original-run source hashes remain in manifest.json. Current GP-only source hashes are in gp_only_record_refresh; source formatting and result presentation were updated after the original fit. Frozen models and predictions are unchanged."
+}

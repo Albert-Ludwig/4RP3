@@ -1,0 +1,84 @@
+{
+  "experiment": "synthetic_3d_ard_rbf_baseline",
+  "scope": "Phases 0, 1, 2 only",
+  "seed": 0,
+  "domain": [
+    [
+      0.0,
+      30.0
+    ],
+    [
+      0.0,
+      30.0
+    ],
+    [
+      0.0,
+      24.0
+    ]
+  ],
+  "snapshot_hours": [
+    6.0,
+    12.0,
+    18.0
+  ],
+  "grid_size": 51,
+  "train_count": 240,
+  "validation_count": 80,
+  "test_count": 800,
+  "noise_std_c": 0.2,
+  "training": {
+    "iterations": 400,
+    "learning_rate": 0.04,
+    "validation_every": 20,
+    "initial_lengthscale_scaled": 0.8,
+    "initial_noise_variance_scaled": 0.02,
+    "dtype": "float64",
+    "device": "cpu",
+    "threads": 1
+  },
+  "spatial_split": {
+    "train_x_m": [
+      0.0,
+      18.0
+    ],
+    "validation_x_m": [
+      0.0,
+      18.0
+    ],
+    "test_x_m": [
+      22.0,
+      30.0
+    ]
+  },
+  "temporal_split": {
+    "train_t_h": [
+      0.0,
+      16.0
+    ],
+    "validation_t_h": [
+      16.0,
+      18.0
+    ],
+    "test_t_h": [
+      18.0,
+      24.0
+    ]
+  },
+  "robustness": {
+    "train_counts": [
+      60,
+      120,
+      240
+    ],
+    "noise_std_c": [
+      0.05,
+      0.2,
+      0.5
+    ],
+    "seeds": [
+      0,
+      1,
+      2
+    ]
+  }
+}

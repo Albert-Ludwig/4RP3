@@ -1,0 +1,24 @@
+{
+  "kernel": "ScaleKernel(RBF_t), single-location temporal GP",
+  "lengthscales_scaled": [
+    0.7781713751197226
+  ],
+  "output_variance_c2": 0.29230115985294336,
+  "noise_variance_c2": 0.005480520738008471,
+  "mean_c": 14.790044614480921,
+  "selected_iteration": 1,
+  "selection": "fixed iteration count selected before refit; no test selection",
+  "fit_seconds": 0.0031759170014993288,
+  "scaler": {
+    "x_mean": [
+      23.916666666666668
+    ],
+    "x_std": [
+      13.856322931614477
+    ],
+    "y_mean": 14.81140016146546,
+    "y_std": 0.5338924200990096,
+    "fit_source": "training measurements only"
+  },
+  "lengthscale_h": 10.782593869797383
+}

@@ -1,0 +1,32 @@
+{
+  "source_name": "WELLWestCampus_WeatherStation_20261014_20261017.csv",
+  "source_sha256": "d8159523632b3e879878e34b3dff17fba14be0cdba912f9074974acb84340b87",
+  "columns": [
+    "ID",
+    "Timestamp",
+    "Group",
+    "Air Temperature: \u00b0C"
+  ],
+  "observations": 352,
+  "temperature_variable": "Air Temperature: \u00b0C",
+  "first_timestamp": "2026-10-14T00:00:00",
+  "last_timestamp": "2026-10-16T10:30:00",
+  "span_h": 58.5,
+  "sampling_interval_min": [
+    10.0
+  ],
+  "missing_or_invalid_temperature_count": 0,
+  "duplicate_timestamp_count": 0,
+  "unique_temperature_values": 77,
+  "adjacent_equal_temperature_fraction": 0.6837606837606838,
+  "temperature_min_c": 13.881832279281952,
+  "temperature_max_c": 15.700138919393211,
+  "groups": [
+    "Weather"
+  ],
+  "timezone": "unspecified in export",
+  "time_representation": "elapsed hours from first exported timestamp; no timezone assigned",
+  "spatial_metadata": "no coordinates or explicit station identifier in supplied export",
+  "interpretation": "one exported Weather air-temperature series; physical sensor count unverified",
+  "limitations": "sensor accuracy, raw-vs-processed status and noise independence are unverified"
+}

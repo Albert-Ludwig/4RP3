@@ -1,0 +1,33 @@
+{
+  "experiment": "real_dashboard_single_station_temporal_rbf",
+  "input_csv": "../../../../Data/Dashboard_data/WELLWestCampus_WeatherStation_20261014_20261017.csv",
+  "temperature_column": "Air Temperature: \u00b0C",
+  "seed": 0,
+  "gap_reconstruction": {
+    "validation_gap_h": [
+      12.0,
+      14.0
+    ],
+    "test_gap_h": [
+      36.0,
+      40.0
+    ]
+  },
+  "forecast": {
+    "development_train_end_h": 36.0,
+    "validation_end_h": 48.0,
+    "test_start_h": 48.0,
+    "refit_on_development_and_validation": true,
+    "horizon_bin_h": 2.0
+  },
+  "training": {
+    "iterations": 400,
+    "learning_rate": 0.04,
+    "validation_every": 20,
+    "initial_lengthscale_scaled": 0.8,
+    "initial_noise_variance_scaled": 0.02,
+    "dtype": "float64",
+    "device": "cpu",
+    "threads": 1
+  }
+}
