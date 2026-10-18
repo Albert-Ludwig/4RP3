@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": {
+    "historical_measurements.csv": true,
+    "online_measurements.csv": true,
+    "robot_trajectory.csv": true,
+    "metrics.csv": true,
+    "candidates.csv": true,
+    "reconstruction.query": true,
+    "reconstruction.truth": true,
+    "reconstruction.means": true,
+    "reconstruction.variances": true,
+    "reconstruction.xx": true,
+    "reconstruction.yy": true,
+    "reconstruction.mask": true,
+    "ordered_routes_and_rewards": true,
+    "travel_costs": true
+  },
+  "excluded": "Wall-clock runtimes and checkpoint container metadata"
+}

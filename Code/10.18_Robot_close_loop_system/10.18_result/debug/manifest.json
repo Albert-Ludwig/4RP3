@@ -1,0 +1,19 @@
+{
+  "candidates.csv": "f99ae3adf3a5c16ead843a57cc09efa0c3561a3880b40285ffe58dd20d16dcac",
+  "config.json": "0b017f0bbce361f312afccf567507639506580d441f8f1ec88afd6b8e0eb7230",
+  "final_gp.pt": "639285a2fabf9ef730e1baa1d64a132cf688095b1ebfd033dd4e3ee7a97ac784",
+  "gp_training_summary.json": "5416acf84cb6e8d6a512b70de6b76028189aaab59d08c8061b14f652af6146c5",
+  "historical_measurements.csv": "2050dd3651befe4d755edff3c35751ccec60cd1347d09443d6ebb31cd79013f1",
+  "initial_gp.pt": "5276803e42aeac691277755cdf9b677ebb5e5dbdf7a9611b77b521d6710a9006",
+  "map_summary.json": "958efe759a5e43f7859021670db5879c8c03c811d5000c79efd79109367abd49",
+  "metrics.csv": "1ca1a817fc087292c0d0fd38a382d91b5f0d77068e9826ab7fa45b5eb2b8b5c4",
+  "mission_summary.json": "0c764010476ccfd4433d85069f1e30f6420463cff32866972c1a0663c4a65e9f",
+  "online_measurements.csv": "93c8b7035071f31832dd321aac3bd40ab57903bc620737cd3148c0d295f7276a",
+  "planned_routes.json": "1126a4b1328a3bbb6f37bd013e038b52f8ab7e303d947604dbfef7ff4f6be04a",
+  "planning_log.csv": "d06311207bcfde0820d5a254581db80de29c742c0113869cb932820ab2f7c844",
+  "reconstruction.npz": "fb87babb01e03c27019e4de91c29fe3c165f754eb1969f27a20357f2d4e0a337",
+  "robot_trajectory.csv": "16277f5cf52d182197563c55342cb302de32ac71e8e863082bf6c0bff1b35f73",
+  "training_history.csv": "1742f306fbbca20a52b8240edc42e442ac00b596cc12f25f5bb170a28c6c1e36",
+  "travel_time_s.npy": "2d61ea1868040862d05378bb27390a871948bb1ec155fa4ad253f475a254d901",
+  "verification.json": "926a0603b4362bfc0787bcbdb7f07bebe6c54426a911fc97c7ddc9123f63a593"
+}
