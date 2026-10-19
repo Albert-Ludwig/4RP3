@@ -1,0 +1,22 @@
+test_cache_disabled_matches_original_across_planning_states (test_recursive.RecursiveChecks.test_cache_disabled_matches_original_across_planning_states) ... ok
+test_exact_budget_dwell_and_return_boundary (test_recursive.RecursiveChecks.test_exact_budget_dwell_and_return_boundary) ... ok
+test_exhaustive_small_routes_and_independent_reward (test_recursive.RecursiveChecks.test_exhaustive_small_routes_and_independent_reward) ... ok
+test_no_duplicate_sampling_nodes_when_revisit_disabled (test_recursive.RecursiveChecks.test_no_duplicate_sampling_nodes_when_revisit_disabled) ... FAIL
+test_obstacle_paths_and_return_have_independent_costs (test_recursive.RecursiveChecks.test_obstacle_paths_and_return_have_independent_costs) ... ok
+test_recursive_deadlines_prefix_and_full_joint_scores (test_recursive.RecursiveChecks.test_recursive_deadlines_prefix_and_full_joint_scores) ... ok
+test_same_route_rescored_for_new_time_and_posterior (test_recursive.RecursiveChecks.test_same_route_rescored_for_new_time_and_posterior) ... ok
+test_unreachable_blocked_and_visited_nodes_are_excluded (test_recursive.RecursiveChecks.test_unreachable_blocked_and_visited_nodes_are_excluded) ... ok
+
+======================================================================
+FAIL: test_no_duplicate_sampling_nodes_when_revisit_disabled (test_recursive.RecursiveChecks.test_no_duplicate_sampling_nodes_when_revisit_disabled)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/jihaoran/Documents/4RP3/Code/10.18_Robot_close_loop_system/testing_code/grg_recursive_verification/test_recursive.py", line 143, in test_no_duplicate_sampling_nodes_when_revisit_disabled
+    self.assertEqual(len(samples), len(set(samples)), f"Unexpected duplicate samples: {plan.route}")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 4 != 3 : Unexpected duplicate samples: [0, 3, 1, 2, 3, 0]
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.804s
+
+FAILED (failures=1)

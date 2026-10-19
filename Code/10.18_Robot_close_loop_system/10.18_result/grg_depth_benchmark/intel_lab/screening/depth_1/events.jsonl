@@ -1,0 +1,2 @@
+{"event": "plan_start", "wall_s": 29111.031615, "call": 0, "elapsed_s": 0, "gp_version": 0}
+{"event": "plan_end", "wall_s": 29111.035409458, "call": 0, "elapsed_s": 0, "route": [0, 0, 0], "arrivals_s": [30.021624999977803], "finish_s": 35.0216249999778, "gain": 0.412131587406877, "runtime_s": 0.003599875002691988, "evaluations": 30, "gp_version": 0, "sample_events": 1, "repeated_events": 0}

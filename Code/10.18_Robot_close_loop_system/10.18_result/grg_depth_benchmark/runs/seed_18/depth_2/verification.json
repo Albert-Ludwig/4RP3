@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "initial_predictions_identical": true,
+    "fixed_parameters": true,
+    "fixed_scaler": true,
+    "all_observations_retained": true,
+    "variance_nonincreasing": true,
+    "actual_arrival_measurements": true,
+    "replan_after_updates": true,
+    "all_routes_budget_feasible": true,
+    "collision_free": true,
+    "mission_budget": true,
+    "returned_home": true,
+    "at_least_three_samples": true,
+    "gain_chain_rule": true
+  }
+}

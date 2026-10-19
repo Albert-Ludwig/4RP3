@@ -1,0 +1,12 @@
+{
+  "gp": {
+    "threads": 1,
+    "iterations": 300,
+    "learning_rate": 0.04,
+    "initial_lengthscale_scaled": 0.8,
+    "initial_noise_variance_scaled": 0.02
+  },
+  "seed": 18,
+  "split": "/Users/jihaoran/Documents/4RP3/Data/Intel_lab_data/processed/three_day_2000",
+  "test_used_for_selection": false
+}

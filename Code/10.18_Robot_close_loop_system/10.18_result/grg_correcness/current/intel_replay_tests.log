@@ -1,0 +1,10 @@
+test_exact_2000_distinct_real_training_records_and_chronological_split (__main__.DataChecks.test_exact_2000_distinct_real_training_records_and_chronological_split) ... ok
+test_full_loop_wait_clock_budget_and_only_executed_gp_updates (test_replay.ReplayChecks.test_full_loop_wait_clock_budget_and_only_executed_gp_updates) ... ok
+test_next_record_matching_never_returns_future_value_early_or_reuses_record (test_replay.ReplayChecks.test_next_record_matching_never_returns_future_value_early_or_reuses_record) ... ok
+test_recorded_timestamps_joint_mi_matches_independent_conditioning (test_replay.ReplayChecks.test_recorded_timestamps_joint_mi_matches_independent_conditioning) ... ok
+test_schedule_waits_for_real_record_and_charges_each_dwell (test_replay.ReplayChecks.test_schedule_waits_for_real_record_and_charges_each_dwell) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.536s
+
+OK

@@ -1,0 +1,6321 @@
+{
+  "exhaustive": [
+    {
+      "nodes": 3,
+      "depth": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "reference_routes": 81,
+      "event_bound": 3,
+      "gain": 2.2445372788294087,
+      "optimality_gap_diagnostic": 4.4048539991658915
+    },
+    {
+      "nodes": 3,
+      "depth": 2,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 81,
+      "event_bound": 3,
+      "gain": 6.6493912779953135,
+      "optimality_gap_diagnostic": -1.3322676295501878e-14
+    },
+    {
+      "nodes": 3,
+      "depth": 3,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 81,
+      "event_bound": 3,
+      "gain": 6.649391277995315,
+      "optimality_gap_diagnostic": -1.509903313490213e-14
+    },
+    {
+      "nodes": 4,
+      "depth": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "reference_routes": 145,
+      "event_bound": 3,
+      "gain": 2.2445372788294087,
+      "optimality_gap_diagnostic": 4.4048539991658915
+    },
+    {
+      "nodes": 4,
+      "depth": 2,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 145,
+      "event_bound": 3,
+      "gain": 6.6493912779953135,
+      "optimality_gap_diagnostic": -1.3322676295501878e-14
+    },
+    {
+      "nodes": 4,
+      "depth": 3,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 145,
+      "event_bound": 3,
+      "gain": 6.649391277995315,
+      "optimality_gap_diagnostic": -1.509903313490213e-14
+    },
+    {
+      "nodes": 5,
+      "depth": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "reference_routes": 248,
+      "event_bound": 3,
+      "gain": 2.2445372788294087,
+      "optimality_gap_diagnostic": 4.4048539991658915
+    },
+    {
+      "nodes": 5,
+      "depth": 2,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 248,
+      "event_bound": 3,
+      "gain": 6.6493912779953135,
+      "optimality_gap_diagnostic": -1.3322676295501878e-14
+    },
+    {
+      "nodes": 5,
+      "depth": 3,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 248,
+      "event_bound": 3,
+      "gain": 6.649391277995315,
+      "optimality_gap_diagnostic": -1.509903313490213e-14
+    },
+    {
+      "nodes": 6,
+      "depth": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "reference_routes": 365,
+      "event_bound": 3,
+      "gain": 2.2445372788294256,
+      "optimality_gap_diagnostic": 4.404853999165875
+    },
+    {
+      "nodes": 6,
+      "depth": 2,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 365,
+      "event_bound": 3,
+      "gain": 6.6493912779953135,
+      "optimality_gap_diagnostic": -1.3322676295501878e-14
+    },
+    {
+      "nodes": 6,
+      "depth": 3,
+      "route": [
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "reference_routes": 365,
+      "event_bound": 3,
+      "gain": 6.649391277995315,
+      "optimality_gap_diagnostic": -1.509903313490213e-14
+    }
+  ],
+  "recursive_calls": [
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 152.06939750360033,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 176.7342165746511,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 191.56072281565028,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 176.7342165746511,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 127.49132531204995,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 127.57807219155036,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 166.9826506240999,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 176.7342165746511,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 146.42070716204734,
+      "finish_s": 144.71266640365488,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 236.0034049988601,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 148.1287479204398,
+      "finish_s": 144.71266640365488,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 236.0034049988601,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 150.31664838066638,
+      "finish_s": 148.06798869036754,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 234.30606905680372,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 152.56530807096522,
+      "finish_s": 148.06798869036754,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 234.30606905680372,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 236.05204812770023,
+      "finish_s": 236.0034049988601,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 321.66893666590676,
+      "finish_s": 295.1595493819608,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 452.63571011483316,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 402.3344683329534,
+      "finish_s": 398.47956573173246,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 452.63571011483316,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 329.8616273964235,
+      "finish_s": 270.58147719041045,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 411.8875462472142,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 394.1417776024366,
+      "finish_s": 382.3094740556638,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 411.8875462472142,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 348.7406898155294,
+      "finish_s": 327.29414359406536,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        2,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 459.64234916049674,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 375.2627151833307,
+      "finish_s": 373.3516105652915,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 459.56687001415946,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 347.08163012138544,
+      "finish_s": 330.649465880778,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 411.8875462472142,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 376.92177487747466,
+      "finish_s": 330.649465880778,
+      "events": 5
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 411.8875462472142,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        2,
+        1,
+        0,
+        3,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 452.63571011483316,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 193.22738948231694,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 280.05423292442276,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 273.8767067730835,
+      "finish_s": 229.30606905680372,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 288.4622134399044,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 168.6493172907666,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 288.4622134399045,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 249.29863458153318,
+      "finish_s": 213.13597738073508,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        1,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 359.4420464375388,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 187.57869914076397,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 287.0608719700863,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.44473187787304,
+      "finish_s": 198.79333164041833,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        2,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 336.1415372068497,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 191.47464035938302,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 295.3933733392307,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.8812920283985,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 288.4622134399045,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 359.5260240638501,
+      "finish_s": 295.3933733392307,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 361.2622488928205,
+      "finish_s": 354.5495177223314,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7056621054321,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 422.13112444641024,
+      "finish_s": 354.5495177223314,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7056621054321,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 369.4549396233373,
+      "finish_s": 329.97144553078107,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 413.93843371589344,
+      "finish_s": 329.97144553078107,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 388.33400204244316,
+      "finish_s": 386.684111934436,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 472.89937138330396,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 395.05937129678756,
+      "finish_s": 386.684111934436,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 472.89937138330396,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 386.6749423482992,
+      "finish_s": 381.6314537056669,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        0,
+        3,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 396.7184309909315,
+      "finish_s": 390.0394342211486,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 135.68401604256675,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 152.15614438310072,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 158.78995989358316,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 152.15614438310072,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 127.49132531204995,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 152.15614438310072,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 166.9826506240999,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 201.31228876620145,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 146.3955474466016,
+      "finish_s": 144.71266640365488,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 211.42533280730976,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 148.0784284895483,
+      "finish_s": 144.71266640365488,
+      "events": 1
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 211.42533280730976,
+      "events": 3
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 211.47397593614988,
+      "finish_s": 201.31228876620145,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 314.92690730516784,
+      "finish_s": 235.8903609577518,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 393.36652169062415,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 398.9634536525839,
+      "finish_s": 347.61835782300517,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 401.77450220610586,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 290.3488351136175,
+      "finish_s": 260.46843314930214,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 401.77450220610586,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 374.3853814610336,
+      "finish_s": 331.44826614693653,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        1,
+        2,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 474.3761919994594,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 309.2782169636149,
+      "finish_s": 268.02495516985636,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 400.37316073628773,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 355.53147875737346,
+      "finish_s": 322.4904026565642,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 454.83860822299556,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 313.17415818223395,
+      "finish_s": 271.380277456569,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.70566210543217,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 359.96803890789886,
+      "finish_s": 319.13508036985155,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        3,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 400.37316073628773,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 454.83860822299556,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 176.8420080212834,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        0,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 263.8841412483541,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 241.10594385101643,
+      "finish_s": 229.30606905680372,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        0
+      ],
+      "end": 1,
+      "route": [
+        1,
+        3,
+        0,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 263.88414124835407,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 168.6493172907666,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 272.2921217638358,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 249.29863458153318,
+      "finish_s": 213.13597738073508,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        3,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 272.2921217638358,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 187.5535394253182,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        2,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 270.89078029401765,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.39441244698153,
+      "finish_s": 198.79333164041833,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        2,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 319.97144553078107,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 188.67198018755576,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        3,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 263.88414124835407,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 229.27597168474398,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 311.63894416163663,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 334.94795187229977,
+      "finish_s": 311.63894416163663,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 388.47801090212465,
+      "finish_s": 346.217016353187,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 351.217016353187,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 435.7390054510623,
+      "finish_s": 346.217016353187,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 351.217016353187,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 363.8999387105743,
+      "finish_s": 321.63894416163663,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 351.217016353187,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 411.160933259512,
+      "finish_s": 370.7950885447373,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 400.3731607362877,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 382.8293205605717,
+      "finish_s": 378.35161056529154,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 464.5668700141595,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 392.30703055585184,
+      "finish_s": 378.35161056529154,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 464.5668700141595,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 386.7252617791907,
+      "finish_s": 381.7069328520042,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 462.94501321844035,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 396.7435907063773,
+      "finish_s": 381.7069328520042,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 462.94501321844035,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 462.94501321844035,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 123.11474757346,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 208.8688107867556,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 133.65142295536964,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 208.8688107867556,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 114.89689712749745,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 214.17811389036274,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 141.7937942549949,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 214.17811389036274,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 171.60956353115233,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 159.71266640365488,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 198.5064606586498,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 159.71266640365488,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 156.80973665562905,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 214.17811389036274,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 165.55148462089053,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 214.17811389036274,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 230.40335778614724,
+      "finish_s": 214.17811389036274,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 361.2622488928205,
+      "finish_s": 351.5263194567941,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 356.5263194567941,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 422.13112444641024,
+      "finish_s": 351.5263194567941,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 356.5263194567941,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 336.73449613216167,
+      "finish_s": 329.97144553078107,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 397.57821197030563,
+      "finish_s": 329.97144553078107,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        1,
+        3,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 471.2775145875848,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 280.0469894439525,
+      "finish_s": 224.17811389036274,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 310.3933733392307,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 340.91586499754226,
+      "finish_s": 326.39836429035313,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 412.6136237392211,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 315.7794659380932,
+      "finish_s": 275.28823909035793,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 356.5263194567941,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 361.27069278582854,
+      "finish_s": 275.28823909035793,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 356.5263194567941,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 356.5263194567941,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 151.67831136762413,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 254.92627775798175,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 190.7785505436979,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 254.92627775798175,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 143.46046092166156,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 263.33425827346343,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 198.92092184332313,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 263.33425827346343,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 200.17312732531647,
+      "finish_s": 198.79333164041833,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 311.0135820404087,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 255.63358824697804,
+      "finish_s": 198.79333164041833,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 311.0135820404087,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 185.37330044979316,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        3,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 279.84864378439,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 222.67861220921878,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 254.92627775798175,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 316.09404916863963,
+      "finish_s": 263.33425827346343,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 394.03301181488763,
+      "finish_s": 354.6249968686687,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7811412517694,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 438.5165059074438,
+      "finish_s": 354.6249968686687,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7811412517694,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 369.50525905422876,
+      "finish_s": 330.04692467711834,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.6249968686687,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 413.96359343133923,
+      "finish_s": 379.12758991388176,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7056621054321,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 312.81775236601965,
+      "finish_s": 273.33425827346343,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.5495177223314,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 357.3012464585758,
+      "finish_s": 273.33425827346343,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.5495177223314,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 348.55022886016036,
+      "finish_s": 324.44438347345863,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 405.6824638398948,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 377.6560742468621,
+      "finish_s": 324.44438347345863,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 405.6824638398948,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        1,
+        3,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.6249968686687,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 126.07245434047694,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 212.22413307346827,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 139.56683648940353,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 212.22413307346827,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 115.07710343813291,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 203.81615255798656,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 142.15420687626582,
+      "finish_s": 93.0,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 203.81615255798656,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 155.87150220402694,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 210.82279160365007,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 167.03033800439903,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 210.82279160365007,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 175.14509212850047,
+      "finish_s": 153.06798869036754,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        3,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 163.06798869036754,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 202.22219556663336,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 203.81615255798656,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 234.29929900476628,
+      "finish_s": 212.22413307346827,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 356.641475626603,
+      "finish_s": 354.5495177223314,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7056621054321,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 419.8207378133015,
+      "finish_s": 354.5495177223314,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 408.7056621054321,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 337.6687237787071,
+      "finish_s": 330.04692467711834,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.6249968686687,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 398.04532579357834,
+      "finish_s": 330.04692467711834,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.6249968686687,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 312.81775236601965,
+      "finish_s": 273.33425827346343,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.5495177223314,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 357.3012464585758,
+      "finish_s": 273.33425827346343,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        2,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.5495177223314,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 280.4033952601668,
+      "finish_s": 222.22413307346827,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        3,
+        3,
+        2,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 359.5495177223314,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 343.5826574468653,
+      "finish_s": 324.44438347345863,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 405.6824638398948,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0,
+        1,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 405.6824638398948,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 154.81622444527653,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 259.9034568404135,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 197.0543766990027,
+      "finish_s": 117.57807219155036,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        0
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        0,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 259.9034568404135,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 143.8208735429325,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 259.9789359867508,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 1,
+      "route": [
+        1,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 199.641747085865,
+      "finish_s": 142.15614438310072,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        1,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 259.9789359867508,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 184.61527230882652,
+      "finish_s": 149.71266640365488,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 317.16600621895907,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "route": [
+        1,
+        0,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 224.5178782139982,
+      "finish_s": 198.79333164041833,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        2
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        2,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 259.9034568404135,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 203.88886223330005,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 306.036402957977,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 259.70973577623255,
+      "finish_s": 193.81615255798656,
+      "events": 2
+    },
+    {
+      "prefix": [
+        1,
+        0,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 306.036402957977,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 320.530609319165,
+      "finish_s": 317.16600621895907,
+      "events": 4
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 426.6027243902635,
+      "finish_s": 411.81206710087696,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 465.96821148397765,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0
+      ],
+      "sample_end": true,
+      "deadline_s": 454.80136219513173,
+      "finish_s": 411.81206710087696,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        1,
+        0,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 465.96821148397765,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 407.6299725423676,
+      "finish_s": 387.2339949093266,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 416.81206710087696,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 1,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        0,
+        1
+      ],
+      "sample_end": true,
+      "deadline_s": 433.02595017540864,
+      "finish_s": 427.9821587769456,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        0,
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        0,
+        1,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 457.56023096849594,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 382.7790011296802,
+      "finish_s": 378.27613141895426,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 464.5668700141595,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 2,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2
+      ],
+      "sample_end": true,
+      "deadline_s": 392.2818708404061,
+      "finish_s": 378.27613141895426,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 464.5668700141595,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 350.36464402382734,
+      "finish_s": 327.16600621895907,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 416.81206710087696,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 3,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3
+      ],
+      "sample_end": true,
+      "deadline_s": 378.56328182869555,
+      "finish_s": 327.16600621895907,
+      "events": 6
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        3,
+        1,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 416.81206710087696,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1,
+        1,
+        2,
+        0,
+        3
+      ],
+      "end": 0,
+      "route": [
+        1,
+        1,
+        2,
+        0,
+        3,
+        3,
+        1,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 416.81206710087696,
+      "events": 7
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "route": [
+        1,
+        0,
+        3,
+        2,
+        1,
+        1,
+        3,
+        0,
+        0
+      ],
+      "sample_end": false,
+      "deadline_s": 483,
+      "finish_s": 462.94501321844035,
+      "events": 7
+    }
+  ],
+  "cache": [
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 0,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 0,
+      "route": [
+        1,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 0,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 0,
+      "route": [
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 0,
+      "route": [
+        1,
+        0,
+        2,
+        1,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 0,
+      "route": [
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 0,
+      "route": [
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 0,
+      "route": [
+        1,
+        0,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 0,
+      "route": [
+        0,
+        0,
+        2,
+        1,
+        2,
+        0,
+        1,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 1,
+      "route": [
+        1,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 1,
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 1,
+      "route": [
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 1,
+      "route": [
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 1,
+      "route": [
+        0,
+        2,
+        0,
+        1,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 0,
+      "gp_version": 1,
+      "route": [
+        0,
+        0,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 1,
+      "elapsed_s": 100,
+      "gp_version": 1,
+      "route": [
+        1,
+        0,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 43200,
+      "gp_version": 1,
+      "route": [
+        0,
+        0,
+        2,
+        1,
+        2,
+        0,
+        1,
+        0,
+        0
+      ],
+      "matched": true
+    }
+  ],
+  "events": [
+    {
+      "route": [
+        0,
+        1,
+        2,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        35.57807219155036,
+        97.29073859520526,
+        159.00340499886013
+      ],
+      "finish_s": 188.5814771904105
+    },
+    {
+      "route": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        35.57807219155036,
+        40.57807219155036
+      ],
+      "finish_s": 70.15614438310072
+    },
+    {
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        35.57807219155036
+      ],
+      "finish_s": 65.15614438310072
+    },
+    {
+      "route": [
+        0,
+        0,
+        0
+      ],
+      "arrivals_s": [
+        11.0
+      ],
+      "finish_s": 16.0
+    }
+  ],
+  "mi_errors": [
+    3.4638958368304884e-14,
+    1.2434497875801753e-14,
+    1.2434497875801753e-14,
+    3.4638958368304884e-14,
+    1.2434497875801753e-14,
+    1.2434497875801753e-14,
+    3.4638958368304884e-14,
+    1.2434497875801753e-14,
+    1.2434497875801753e-14,
+    3.4638958368304884e-14,
+    1.2434497875801753e-14,
+    1.2434497875801753e-14,
+    0.0,
+    2.930988785010413e-14,
+    4.4573233992650785e-12,
+    2.19912976717751e-12,
+    5.782041512247815e-13,
+    2.7915447731174936e-12,
+    6.039613253960852e-14,
+    6.465938895416912e-12,
+    3.8269387658829146e-13,
+    6.6844307866631425e-12,
+    7.904787935331115e-14,
+    1.6209256159527285e-12,
+    6.039613253960852e-13,
+    5.165645688975928e-12,
+    7.426059767112747e-12,
+    1.956657058599376e-12,
+    5.03774799653911e-12,
+    7.371880883511039e-13,
+    6.340705738239194e-12,
+    2.8830271503466065e-12,
+    6.194156298988673e-12,
+    3.0615510127063317e-12,
+    2.587263736586465e-12,
+    1.6795453916529368e-12,
+    2.6769697569761775e-12,
+    4.5279335836312384e-12,
+    3.346656285430072e-12,
+    2.2311041902867146e-12,
+    8.162359677044151e-13,
+    5.157652083198627e-12,
+    3.0020430585864233e-13,
+    1.5267787034645153e-12,
+    7.012168623532489e-13,
+    2.844835478299501e-12,
+    5.080380560684716e-13,
+    1.0039080677870516e-11,
+    3.582467655860455e-12,
+    1.7141843500212417e-12,
+    2.788880237858393e-13,
+    3.3173463975799677e-12,
+    4.440892098500626e-15,
+    3.2036595598583517e-12,
+    3.836930773104541e-12,
+    1.928235349168972e-12,
+    5.098144129078719e-12,
+    5.211830966800335e-12,
+    4.730438263322867e-12,
+    1.0551559626037488e-12,
+    4.142464149481384e-12,
+    1.3837819778927951e-12,
+    5.5422333389287814e-12,
+    2.8759217229890055e-12,
+    9.605649609056854e-13,
+    5.9472426983120386e-12,
+    2.028155421385236e-12,
+    9.228173780684301e-13,
+    6.178169087434071e-12,
+    8.999911926821369e-12,
+    3.391065206415078e-12,
+    3.3093527918026666e-12,
+    6.8753891468986694e-12,
+    9.880096740744193e-12,
+    8.979483823168266e-13,
+    9.71933644677847e-12,
+    2.8528290840768022e-12,
+    6.548539488449023e-12,
+    6.767031379695254e-12,
+    8.816058993943443e-12,
+    1.5303314171433158e-12,
+    9.514167231827741e-12,
+    1.0521361559767684e-11,
+    1.0521361559767684e-11,
+    1.6537882174816332e-12,
+    3.014477556462225e-12,
+    1.6138201885951275e-12,
+    1.7461587731304462e-12,
+    1.7195134205394424e-12,
+    1.2247980407664727e-12,
+    2.795097486796294e-12,
+    2.6982860390489805e-12,
+    1.0125233984581428e-13,
+    1.4235723710953607e-11,
+    3.339550858072471e-12,
+    1.2221335055073723e-12,
+    4.318323476582009e-12,
+    4.483524662646232e-12,
+    4.483524662646232e-12,
+    1.7266188478970435e-12,
+    5.38769029390096e-12,
+    7.638334409421077e-13,
+    1.737276988933445e-12,
+    3.368860745922575e-12,
+    4.293454480830405e-12,
+    1.871836019518014e-12,
+    1.7479351299698465e-12,
+    2.098765605751396e-12,
+    4.195754854663392e-12,
+    3.5438318946034997e-12,
+    2.6059154834001674e-12,
+    3.19211324040225e-12,
+    3.154809746774845e-12,
+    8.322231792590173e-13,
+    1.3455903058456897e-12,
+    4.0678571622265736e-12,
+    3.225864020350855e-12,
+    3.455014052633487e-12,
+    2.5845992013273644e-12,
+    4.947153797729698e-13,
+    7.44559969234615e-12,
+    8.5131901528257e-13,
+    9.414691248821327e-14,
+    3.730349362740526e-13,
+    4.1033842990145786e-13,
+    5.88684656577243e-12,
+    3.348432642269472e-12,
+    2.9380942123680143e-12,
+    1.6893153542696382e-12,
+    3.590017172427906e-12,
+    4.307665335545607e-12,
+    3.147704319417244e-12,
+    1.6324719354088302e-12,
+    9.990230864787009e-12,
+    8.65085780787922e-13,
+    2.5863755581667647e-12,
+    6.005862474012247e-12,
+    2.2932766796657233e-12,
+    3.142375248899043e-12,
+    5.313971485065849e-12,
+    3.1867841698840493e-12,
+    3.227640377190255e-12,
+    3.3582026048861735e-12,
+    3.838707129943941e-12,
+    3.2533975513615587e-12,
+    3.524291969370097e-12,
+    3.069544618483633e-12,
+    4.192202140984591e-12,
+    2.2737367544323206e-13,
+    4.734879155421368e-12,
+    3.735678433258727e-12,
+    4.629185923477053e-12,
+    3.213429522475053e-12,
+    2.7533531010703882e-14,
+    7.817746450200502e-12,
+    2.646771690706373e-13,
+    3.1086244689504383e-13,
+    3.2960301155071647e-12,
+    3.1885605267234496e-13,
+    4.0536463075113716e-12,
+    3.5367264672458987e-12,
+    1.0054179711005418e-12,
+    2.305711177541525e-12,
+    4.474642878449231e-12,
+    5.512035272658977e-12,
+    1.6484591469634324e-12,
+    5.758948873335612e-12,
+    1.751487843648647e-12,
+    4.1104897263721796e-12,
+    1.241229341530925e-12,
+    2.1760371282653068e-13,
+    6.972200594645983e-14,
+    8.615330671091215e-14,
+    3.255173908200959e-13,
+    8.872902412804251e-13,
+    9.547918011776346e-14,
+    5.233591338082988e-13,
+    5.657696533489798e-13,
+    5.558220550483384e-12
+  ],
+  "reproduction": {
+    "original_route": [
+      0,
+      3,
+      1,
+      2,
+      3,
+      0
+    ],
+    "arrivals_s": [
+      81.38651821211016,
+      148.7534528542421,
+      211.9956708852428,
+      273.8513707041333
+    ],
+    "finish_s": 360.23788891624343,
+    "dwell_s": 20.0,
+    "event_count": 4,
+    "valid_revisit_route": true,
+    "current_route": [
+      0,
+      3,
+      0,
+      2,
+      1,
+      3,
+      0,
+      1,
+      0
+    ],
+    "interpretation": "Two explicit node-3 events with distinct times and dwells. The shared recursive junction is passed once in the prefix, not concatenated twice."
+  }
+}

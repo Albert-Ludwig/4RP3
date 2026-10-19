@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checks": {
+    "all_run_rows_recorded": true,
+    "baseline_reproduced": true,
+    "baseline_sources_unchanged": true,
+    "regression_passed": true,
+    "benchmark_tests_passed": true,
+    "seven_saved_figures": true,
+    "seven_embedded_figures": true,
+    "new_cells_executed": true,
+    "notebook_no_errors": true,
+    "local_links_exist": true
+  }
+}

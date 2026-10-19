@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "count": 5,
+  "failures": 0,
+  "errors": 0,
+  "evidence": {
+    "recorded_time_mi_difference_nats": 4.551914400963142e-15
+  }
+}

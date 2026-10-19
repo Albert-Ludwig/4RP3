@@ -1,0 +1,6 @@
+{
+  "maximum_mi_difference_nats": 1.4235723710953607e-11,
+  "recursive_subproblems_checked": 269,
+  "cache_states_checked": 18,
+  "bounded_exhaustive_cases": 12
+}

@@ -1,0 +1,9 @@
+{
+  "depth": 2,
+  "status": "ERROR",
+  "reason": null,
+  "wall_s": 8.652987166999083,
+  "returncode": 1,
+  "planning_limit_s": 90,
+  "mission_limit_s": 900
+}

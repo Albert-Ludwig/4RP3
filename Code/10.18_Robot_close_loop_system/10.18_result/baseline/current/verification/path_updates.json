@@ -1,0 +1,60 @@
+{
+  "note": "Only report links and archival labels changed during consolidation. Manifest metadata was refreshed. Numerical artifacts were not edited.",
+  "updated_entries": [
+    {
+      "file": "10.18_result/baseline/updates/home_sampling/report.md",
+      "before": "bd68236497143e7511f5fe530e7ed2b8b2cce33df0eadb4fa411f88eae63e314",
+      "after": "cd4f563377db2efae85bc6a8a6b2e3220101762f8c87d0b0ae085ea461284761"
+    },
+    {
+      "file": "10.18_result/baseline/updates/failure_policy/report.md",
+      "before": "9ee3b4fef875f929b080b019b764c35fda4b6457d585583a4e1d27c6a1a9c8a8",
+      "after": "ec6e95e28fcc99910c0acf9e4a1d0ee3b750bacc8d6fa707864eb670a82afe20"
+    },
+    {
+      "file": "10.18_result/baseline/updates/mission_time_model/report.md",
+      "before": "944efe71739130d52ea13b75e85e008711155ebe15f9ac0864b12ea509b10aee",
+      "after": "391bd5b151eaf86412c87822699cbd1554d2a6e41a25a9daf8e4b639dd933614"
+    },
+    {
+      "file": "10.18_result/baseline/updates/failure_policy/manifest.json",
+      "before": "b54e4d0f2322d7661885a319f3f25a3aef9e457404439b78454d9409fa80227c",
+      "after": "9a42c449eaa9c2f153447b004e409c39042b8765b4881de64ce88ee4e071faeb"
+    },
+    {
+      "file": "10.18_result/baseline/updates/failure_policy/report.md",
+      "before": "9ee3b4fef875f929b080b019b764c35fda4b6457d585583a4e1d27c6a1a9c8a8",
+      "after": "ec6e95e28fcc99910c0acf9e4a1d0ee3b750bacc8d6fa707864eb670a82afe20"
+    },
+    {
+      "file": "10.18_result/baseline/updates/home_sampling/manifest.json",
+      "before": "e6f369afcae042ba9a18508b165b07c9bd1062659dbfe99114656cde23cc599c",
+      "after": "66c58e8162f77f0b8e7e999aef35214dc51f9faf46b8ae487b8eef6ce5c3b173"
+    },
+    {
+      "file": "10.18_result/baseline/updates/home_sampling/report.md",
+      "before": "bd68236497143e7511f5fe530e7ed2b8b2cce33df0eadb4fa411f88eae63e314",
+      "after": "cd4f563377db2efae85bc6a8a6b2e3220101762f8c87d0b0ae085ea461284761"
+    },
+    {
+      "file": "10.18_result/baseline/updates/mission_time_model/manifest.json",
+      "before": "49a6cda1b75d2a64f6e9e19a613b66f66150ed6c24a37dd200fe696d73875cae",
+      "after": "cba23cbde8cfdbbf5f1e7b4a8e2145fae1833923d108bb16164eab27e4ccbc23"
+    },
+    {
+      "file": "10.18_result/baseline/updates/mission_time_model/report.md",
+      "before": "944efe71739130d52ea13b75e85e008711155ebe15f9ac0864b12ea509b10aee",
+      "after": "391bd5b151eaf86412c87822699cbd1554d2a6e41a25a9daf8e4b639dd933614"
+    },
+    {
+      "file": "10.18_result/baseline/updates/report.md",
+      "before": "9e0b01f6a553328dd2c9ca62c1c958d8ae884782d8e771ce8b105ce080033e3d",
+      "after": "f1df4fc2ffe8ac5fcd766c2f7b0d30085d87131b054415c0e9d29c6f063c99a9"
+    },
+    {
+      "file": "10.18_result/grg_correcness/report.md",
+      "before": "b6f63effdeb2a3001817b020be407cc975ed588d9166a8e43fcc700642f2a1ed",
+      "after": "50ddf445bdd9130b82688b7cdeeda813066e2081697cb60f0f3ab4ee4a159069"
+    }
+  ]
+}

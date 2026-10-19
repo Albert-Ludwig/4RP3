@@ -1,0 +1,13 @@
+test_01_bounded_exhaustive_repeated_routes (test_recursive.RecursiveChecks.test_01_bounded_exhaustive_repeated_routes) ... ok
+test_02_recursive_deadlines_prefixes_and_junctions (test_recursive.RecursiveChecks.test_02_recursive_deadlines_prefixes_and_junctions) ... ok
+test_03_consecutive_nonconsecutive_and_previous_visits (test_recursive.RecursiveChecks.test_03_consecutive_nonconsecutive_and_previous_visits) ... ok
+test_04_cache_depth_time_prefix_order_and_posterior (test_recursive.RecursiveChecks.test_04_cache_depth_time_prefix_order_and_posterior) ... ok
+test_05_joint_mi_history_online_and_temporal_covariance (test_recursive.RecursiveChecks.test_05_joint_mi_history_online_and_temporal_covariance) ... ok
+test_06_zero_distance_dwell_exact_budget_and_return (test_recursive.RecursiveChecks.test_06_zero_distance_dwell_exact_budget_and_return) ... ok
+test_07_candidates_and_one_top_level_failure_cycle (test_recursive.RecursiveChecks.test_07_candidates_and_one_top_level_failure_cycle) ... ok
+test_08_obstacle_paths_and_previous_depth3_reproduction (test_recursive.RecursiveChecks.test_08_obstacle_paths_and_previous_depth3_reproduction) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 10.928s
+
+OK

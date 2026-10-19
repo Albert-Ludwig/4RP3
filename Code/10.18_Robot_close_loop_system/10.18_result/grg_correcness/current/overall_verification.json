@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "automated_tests": {
+    "recursive": 8,
+    "baseline": 52,
+    "historical_benchmark": 6,
+    "intel_split_and_replay": 5,
+    "total": 71
+  },
+  "intel_replay_acceptance_checks": 12,
+  "all_depths_returned_home": true,
+  "depth2_repeat_passed": true,
+  "new_notebook_cells": 14,
+  "new_executed_code_cells": 5,
+  "new_embedded_figures": 7,
+  "archived_result_files_unchanged": 560,
+  "max_joint_mi_difference_nats": 1.4235723710953607e-11,
+  "depth5": "NOT_RUN per task",
+  "new_results_are_real_record_replay": true,
+  "dense_maps_are_gp_predictions_without_dense_ground_truth": true,
+  "archived_synthetic_cells": 24,
+  "main_notebook_contains_current_intel_performance_only": true,
+  "raw_records_independently_verified": 92690,
+  "checkpoint_training_records_match_intel": true
+}

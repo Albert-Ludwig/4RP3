@@ -1,0 +1,9 @@
+{
+  "obstacle_areas_m2": [
+    8.125,
+    8.125
+  ],
+  "footprint_radius_with_margin_m": 0.46055512754639893,
+  "reachable_grid_nodes": 3373,
+  "edge_count": 13040
+}

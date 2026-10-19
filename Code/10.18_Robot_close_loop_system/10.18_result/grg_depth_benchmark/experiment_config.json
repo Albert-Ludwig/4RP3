@@ -1,0 +1,18 @@
+{
+  "seeds": [
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "depths": [
+    2,
+    3,
+    5
+  ],
+  "planning_limit_s": 90,
+  "mission_wall_limit_s": 900,
+  "baseline_commit": "bbd018151b38a4af718f0e215edc3de7e4d86d9f",
+  "only_changed_model_setting": "grg.depth"
+}

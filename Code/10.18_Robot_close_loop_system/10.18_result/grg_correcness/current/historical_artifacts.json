@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "checks": {
+    "debug_files": true,
+    "debug_acceptance": true,
+    "main_files": true,
+    "main_acceptance": true,
+    "repeat_files": true,
+    "repeat_acceptance": true,
+    "seed_19_files": true,
+    "seed_19_acceptance": true,
+    "seed_20_files": true,
+    "seed_20_acceptance": true,
+    "notebook_executed": true,
+    "notebook_no_errors": true,
+    "six_embedded_figures": true,
+    "local_links_exist": true,
+    "historical_source_hashes_retained": true
+  },
+  "current_matches_historical_sources": false,
+  "note": "The user replaced baseline code; historical data hashes remain authoritative for old results.",
+  "code_cells": 6,
+  "local_links": 31
+}

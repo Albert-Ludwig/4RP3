@@ -1,0 +1,8 @@
+{
+  "seed": 22,
+  "origin": "trained once for this seed using unchanged baseline settings",
+  "observations": 100,
+  "online_count": 0,
+  "elapsed_s": 0,
+  "initial_rmse_c": 0.08565450981522406
+}

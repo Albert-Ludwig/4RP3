@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "unique_raw_records_verified": 92690,
+  "artifacts": {
+    "Data/Intel_lab_data/processed/three_day_2000/train_2000.csv": 2000,
+    "Data/Intel_lab_data/processed/three_day_2000/test_day4.csv": 90690,
+    "Code/10.18_Robot_close_loop_system/10.18_result/baseline/intel_lab/replay/online_measurements.csv": 7,
+    "Code/10.18_Robot_close_loop_system/10.18_result/grg_depth_benchmark/intel_lab/runs/depth_1/online_measurements.csv": 6,
+    "Code/10.18_Robot_close_loop_system/10.18_result/grg_depth_benchmark/intel_lab/runs/depth_3/online_measurements.csv": 12
+  },
+  "checkpoint_history_matches_selected_intel_records": true,
+  "raw_coordinate_time_temperature_matches": true,
+  "method": "Resolve every record_id to its original data.txt line; join mote_locs coordinates; compare exact x/y/time/temperature. Verify checkpoint training inputs and targets against selected records."
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": {
+    "online_measurements.csv": true,
+    "robot_trajectory.csv": true,
+    "metrics.csv": true,
+    "routes_and_times": true
+  }
+}

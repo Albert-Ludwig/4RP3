@@ -1,0 +1,51 @@
+{
+  "points": [
+    [
+      2.0,
+      2.0
+    ],
+    [
+      7.0,
+      9.0
+    ],
+    [
+      20.0,
+      24.0
+    ],
+    [
+      28.0,
+      8.0
+    ]
+  ],
+  "depth": 3,
+  "remaining_s": 900,
+  "sample_s": 5,
+  "speed_m_s": 0.35,
+  "allow_revisit": false,
+  "travel_source": "unchanged obstacle map and grid paths",
+  "plan": {
+    "route": [
+      0,
+      3,
+      1,
+      2,
+      3,
+      0
+    ],
+    "arrivals_s": [
+      81.38651821211016,
+      148.7534528542421,
+      211.9956708852428,
+      273.8513707041333
+    ],
+    "finish_s": 360.23788891624343,
+    "gain": 5.726778838084625,
+    "runtime_s": 0.002290124997671228,
+    "evaluations": 25,
+    "gp_version": 0
+  },
+  "repeated_nodes": [
+    3
+  ],
+  "constraint_satisfied": false
+}

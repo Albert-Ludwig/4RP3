@@ -1,0 +1,8 @@
+{
+  "status": "SUCCESS",
+  "reason": null,
+  "wall_s": 3.458525041001849,
+  "returncode": 0,
+  "planning_limit_s": 90,
+  "mission_limit_s": 900
+}

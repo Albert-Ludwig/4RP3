@@ -1,0 +1,15 @@
+{
+  "depths": [
+    1,
+    2,
+    3
+  ],
+  "depth5": "NOT_RUN: explicitly excluded by task",
+  "initial_gp_sha256": "988ad75716b6b6aecafced5f197473d235bcf198688fbfea01242cc661f025a6",
+  "split": "/Users/jihaoran/Documents/4RP3/Data/Intel_lab_data/processed/three_day_2000",
+  "seed": 18,
+  "planning_wall_limit_s": 90,
+  "mission_wall_limit_s": 900,
+  "mission_budget_s": 900,
+  "design": "One fixed recorded dataset. Depth changes; history, initial GP, candidates, map, held-out reference and arrival matching are shared. Repeat depth 2 checks determinism; no stochastic significance claim."
+}

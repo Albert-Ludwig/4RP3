@@ -1,0 +1,14 @@
+{"event": "plan_start", "wall_s": 29114.495644375, "call": 0, "elapsed_s": 0.0, "gp_version": 0}
+{"event": "plan_end", "wall_s": 29114.499337666, "call": 0, "elapsed_s": 0.0, "route": [0, 0, 0], "arrivals_s": [30.021624999977803], "finish_s": 35.0216249999778, "gain": 0.412131587406877, "runtime_s": 0.003422375000809552, "evaluations": 30, "gp_version": 0, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29114.801527625, "call": 1, "elapsed_s": 35.0216249999778, "gp_version": 1}
+{"event": "plan_end", "wall_s": 29114.805247458, "call": 1, "elapsed_s": 35.0216249999778, "route": [0, 28, 0], "arrivals_s": [236.75153400003524], "finish_s": 313.1801054286067, "gain": 0.3200936016995781, "runtime_s": 0.0034711659973254427, "evaluations": 30, "gp_version": 1, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29115.139780041, "call": 2, "elapsed_s": 241.75153400002202, "gp_version": 2}
+{"event": "plan_end", "wall_s": 29115.152492458, "call": 2, "elapsed_s": 241.75153400002202, "route": [28, 19, 0], "arrivals_s": [388.92566499998225], "finish_s": 453.92566499998225, "gain": 0.3299369017905684, "runtime_s": 0.012424999997165287, "evaluations": 30, "gp_version": 2, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29115.507629375, "call": 3, "elapsed_s": 393.9256649999984, "gp_version": 3}
+{"event": "plan_end", "wall_s": 29115.5137095, "call": 3, "elapsed_s": 393.9256649999984, "route": [19, 25, 0], "arrivals_s": [507.2679129999699], "finish_s": 611.7530705810974, "gain": 0.2995750378289866, "runtime_s": 0.0058811669987335335, "evaluations": 29, "gp_version": 3, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29115.764046125, "call": 4, "elapsed_s": 512.2679129999763, "gp_version": 4}
+{"event": "plan_end", "wall_s": 29115.767545916, "call": 4, "elapsed_s": 512.2679129999763, "route": [25, 11, 0], "arrivals_s": [626.0490949999905], "finish_s": 666.5182766067708, "gain": 0.2812289202406922, "runtime_s": 0.0032591249982942827, "evaluations": 29, "gp_version": 4, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29116.053875041, "call": 5, "elapsed_s": 631.0490950000078, "gp_version": 5}
+{"event": "plan_end", "wall_s": 29116.057687, "call": 5, "elapsed_s": 631.0490950000078, "route": [11, 0, 0], "arrivals_s": [865.2592039999831], "finish_s": 870.2592039999831, "gain": 0.2539711464162436, "runtime_s": 0.0035820830016746186, "evaluations": 27, "gp_version": 5, "sample_events": 1, "repeated_events": 0}
+{"event": "plan_start", "wall_s": 29116.350316083, "call": 6, "elapsed_s": 870.2592039999802, "gp_version": 6}
+{"event": "plan_end", "wall_s": 29116.350726583, "call": 6, "elapsed_s": 870.2592039999802, "route": [0], "arrivals_s": [], "finish_s": 870.2592039999802, "gain": 0.0, "runtime_s": 0.00023299999884329736, "evaluations": 1, "gp_version": 6, "sample_events": 0, "repeated_events": 0}

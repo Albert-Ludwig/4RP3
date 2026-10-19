@@ -1,0 +1,11 @@
+{
+  "status": "TIMEOUT",
+  "reason": "planning_call_limit",
+  "wall_s": 92.55939470900012,
+  "returncode": -9,
+  "planning_limit_s": 90,
+  "mission_limit_s": 900,
+  "timed_out_call": 0,
+  "timed_out_call_s": 90.0691725839988,
+  "elapsed_simulation_s": 0
+}

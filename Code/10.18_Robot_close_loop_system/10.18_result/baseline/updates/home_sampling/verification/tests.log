@@ -1,0 +1,20 @@
+test_blocked_unreachable_and_budget_constraints_remain (test_revisit.RevisitTests.test_blocked_unreachable_and_budget_constraints_remain) ... ok
+test_full_loop_assimilates_actual_revisits_and_returns (test_revisit.RevisitTests.test_full_loop_assimilates_actual_revisits_and_returns) ... ok
+test_historical_experiment_module_is_not_rebound (test_revisit.RevisitTests.test_historical_experiment_module_is_not_rebound) ... ok
+test_home_endpoint_roles_match_with_reward_cache_disabled (test_revisit.RevisitTests.test_home_endpoint_roles_match_with_reward_cache_disabled) ... ok
+test_home_is_a_planned_measurement_even_at_start (test_revisit.RevisitTests.test_home_is_a_planned_measurement_even_at_start) ... ok
+test_home_only_closed_loop_updates_gp_without_extra_final_sample (test_revisit.RevisitTests.test_home_only_closed_loop_updates_gp_without_extra_final_sample) ... ok
+test_home_sampling_after_travel_reserves_dwell_and_return (test_revisit.RevisitTests.test_home_sampling_after_travel_reserves_dwell_and_return) ... ok
+test_intermediate_home_and_final_return_have_distinct_roles (test_revisit.RevisitTests.test_intermediate_home_and_final_return_have_distinct_roles) ... ok
+test_joint_reward_keeps_every_spatiotemporal_observation (test_revisit.RevisitTests.test_joint_reward_keeps_every_spatiotemporal_observation) ... ok
+test_matching_configuration_and_original_components (test_revisit.RevisitTests.test_matching_configuration_and_original_components) ... ok
+test_prefix_nodes_can_be_sampled_at_later_times (test_revisit.RevisitTests.test_prefix_nodes_can_be_sampled_at_later_times) ... ok
+test_previously_sampled_nodes_remain_eligible (test_revisit.RevisitTests.test_previously_sampled_nodes_remain_eligible) ... ok
+test_pure_return_does_not_force_a_home_measurement (test_revisit.RevisitTests.test_pure_return_does_not_force_a_home_measurement) ... ok
+test_recursive_home_timing_and_joint_reward (test_revisit.RevisitTests.test_recursive_home_timing_and_joint_reward) ... ok
+test_revisited_measurement_updates_posterior_without_exclusion (test_revisit.RevisitTests.test_revisited_measurement_updates_posterior_without_exclusion) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.771s
+
+OK

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": {
+    "measurements": true,
+    "planning_calls": true,
+    "travel_distance_m": true,
+    "travel_time_s": true,
+    "elapsed_s": true,
+    "initial_rmse_c": true,
+    "final_rmse_c": true,
+    "initial_variance_c2": true,
+    "final_variance_c2": true,
+    "online_measurements.csv": true,
+    "robot_trajectory.csv": true,
+    "metrics.csv": true,
+    "routes": true,
+    "return_home": true
+  },
+  "excluded": "Wall-clock runtime; not expected to reproduce exactly"
+}

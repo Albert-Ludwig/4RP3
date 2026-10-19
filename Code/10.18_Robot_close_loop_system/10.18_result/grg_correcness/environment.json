@@ -1,0 +1,5 @@
+{
+  "python": "3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "executable": "/Users/jihaoran/Documents/4RP3/Code/10.16_GP3D_baseline_test/10.16_testing_code/.venv/bin/python",
+  "scope": "isolated correctness verification; existing saved GP; no retraining"
+}

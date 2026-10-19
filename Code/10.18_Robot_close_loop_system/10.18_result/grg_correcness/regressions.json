@@ -1,0 +1,27 @@
+[
+  {
+    "suite": "baseline",
+    "command": [
+      "/Users/jihaoran/Documents/4RP3/Code/10.16_GP3D_baseline_test/10.16_testing_code/.venv/bin/python",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "testing_code/baseline",
+      "-p",
+      "test_*.py",
+      "-v"
+    ],
+    "passed": true,
+    "returncode": 0
+  },
+  {
+    "suite": "benchmark",
+    "command": [
+      "/Users/jihaoran/Documents/4RP3/Code/10.16_GP3D_baseline_test/10.16_testing_code/.venv/bin/python",
+      "testing_code/grg_depth_benchmark/test_benchmark.py"
+    ],
+    "passed": true,
+    "returncode": 0
+  }
+]

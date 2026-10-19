@@ -1,0 +1,2 @@
+{"event": "worker_ready", "wall_s": 15930.971932208, "seed": 18, "depth": 5, "initial_gp_sha256": "387b3ca27bc9356d5a56d49b26293e327368bb5215c4834b810565d27e117efd", "observations": 100, "elapsed_s": 0}
+{"event": "plan_start", "wall_s": 15930.972008041, "call": 0, "elapsed_s": 0, "gp_version": 0, "remaining_s": 900.0}

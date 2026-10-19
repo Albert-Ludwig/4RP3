@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "cooldown_statuses_checked": 6,
+  "eligibility_after_failure": [
+    true,
+    false,
+    true
+  ],
+  "no_failure_smoke_data_unchanged": {
+    "online_measurements.csv": true,
+    "robot_trajectory.csv": true,
+    "metrics.csv": true
+  }
+}

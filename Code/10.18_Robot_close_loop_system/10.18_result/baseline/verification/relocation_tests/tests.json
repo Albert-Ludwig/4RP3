@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "count": 22,
+  "tests": [
+    {
+      "test": "test_components.TestAEnvironment.test_candidates_reachable_repeatable",
+      "status": "passed",
+      "runtime_s": 0.017365792002237868
+    },
+    {
+      "test": "test_components.TestAEnvironment.test_edges_and_no_corner_cutting",
+      "status": "passed",
+      "runtime_s": 0.18160745799832512
+    },
+    {
+      "test": "test_components.TestAEnvironment.test_invalid_requests",
+      "status": "passed",
+      "runtime_s": 0.00023104199863155372
+    },
+    {
+      "test": "test_components.TestAEnvironment.test_map_and_footprint",
+      "status": "passed",
+      "runtime_s": 8.370799696422182e-05
+    },
+    {
+      "test": "test_components.TestAEnvironment.test_motion_cost_and_return",
+      "status": "passed",
+      "runtime_s": 0.06745474999843282
+    },
+    {
+      "test": "test_components.TestBPosterior.test_append_fixed_parameters_and_variance",
+      "status": "passed",
+      "runtime_s": 1.2644124170001305
+    },
+    {
+      "test": "test_components.TestBPosterior.test_future_history_and_invalid_measurement_rejected",
+      "status": "passed",
+      "runtime_s": 0.050257124999916414
+    },
+    {
+      "test": "test_components.TestBPosterior.test_joint_matches_conditioning_and_scaled_units",
+      "status": "passed",
+      "runtime_s": 0.09511620800185483
+    },
+    {
+      "test": "test_components.TestBPosterior.test_temperature_changes_mean_not_covariance",
+      "status": "passed",
+      "runtime_s": 0.08258266699704109
+    },
+    {
+      "test": "test_components.TestCGRG.test_information_gain_correlations",
+      "status": "passed",
+      "runtime_s": 0.06651304200204322
+    },
+    {
+      "test": "test_components.TestCGRG.test_recursive_search_budget_and_updated_posterior",
+      "status": "passed",
+      "runtime_s": 0.06781608300298103
+    },
+    {
+      "test": "test_components.TestCGRG.test_route_covariance_is_posterior_and_time_dependent",
+      "status": "passed",
+      "runtime_s": 0.06328429100176436
+    },
+    {
+      "test": "test_components.TestCGRG.test_visited_nodes_and_configurable_revisit",
+      "status": "passed",
+      "runtime_s": 0.050159000002167886
+    },
+    {
+      "test": "test_system.TestDClosedLoop.test_actual_navigation_clock_used",
+      "status": "passed",
+      "runtime_s": 0.0549108340019302
+    },
+    {
+      "test": "test_system.TestDClosedLoop.test_full_loop_and_repeated_run",
+      "status": "passed",
+      "runtime_s": 0.10272424999857321
+    },
+    {
+      "test": "test_system.TestEEvaluation.test_fixed_query_variance_and_latent_coverage",
+      "status": "passed",
+      "runtime_s": 0.09565795899834484
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_core_modules_have_no_truth_or_ros_import",
+      "status": "passed",
+      "runtime_s": 0.004619125000317581
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_empty_navigation_path",
+      "status": "passed",
+      "runtime_s": 4.858299871557392e-05
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_empty_plan_and_insufficient_budget",
+      "status": "passed",
+      "runtime_s": 0.0020048750011483207
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_failed_navigation_does_not_measure",
+      "status": "passed",
+      "runtime_s": 0.020542709000437753
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_invalid_sensor_and_wrong_timestamp",
+      "status": "passed",
+      "runtime_s": 0.09944466699744225
+    },
+    {
+      "test": "test_system.TestFInterfaces.test_partial_navigation_failure_returns_from_actual_position",
+      "status": "passed",
+      "runtime_s": 0.01424849999966682
+    }
+  ]
+}

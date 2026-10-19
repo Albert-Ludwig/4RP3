@@ -1,0 +1,2281 @@
+{
+  "planning_calls": 171,
+  "calls_with_duplicates": 0,
+  "calls": [
+    {
+      "run": "seed_18/depth_2",
+      "call": 0,
+      "route": [
+        0,
+        3,
+        2,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 1,
+      "route": [
+        3,
+        2,
+        1,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 2,
+      "route": [
+        2,
+        14,
+        1,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 3,
+      "route": [
+        14,
+        1,
+        19,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 4,
+      "route": [
+        1,
+        19,
+        20,
+        24,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 5,
+      "route": [
+        19,
+        20,
+        24,
+        22,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 6,
+      "route": [
+        20,
+        22,
+        24,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 7,
+      "route": [
+        22,
+        24,
+        46,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 8,
+      "route": [
+        24,
+        25,
+        32,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 9,
+      "route": [
+        25,
+        10,
+        32,
+        30,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 10,
+      "route": [
+        10,
+        30,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 11,
+      "route": [
+        30,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_2",
+      "call": 12,
+      "route": [
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 0,
+      "route": [
+        0,
+        3,
+        2,
+        14,
+        1,
+        19,
+        20,
+        24,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 1,
+      "route": [
+        3,
+        2,
+        19,
+        1,
+        46,
+        24,
+        20,
+        22,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 2,
+      "route": [
+        2,
+        14,
+        1,
+        19,
+        22,
+        24,
+        20,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 3,
+      "route": [
+        14,
+        1,
+        19,
+        24,
+        20,
+        22,
+        46,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 4,
+      "route": [
+        1,
+        19,
+        24,
+        22,
+        20,
+        25,
+        32,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 5,
+      "route": [
+        19,
+        24,
+        22,
+        20,
+        17,
+        32,
+        25,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 6,
+      "route": [
+        24,
+        22,
+        32,
+        20,
+        25,
+        16,
+        38,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 7,
+      "route": [
+        22,
+        17,
+        7,
+        20,
+        10,
+        25,
+        38,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 8,
+      "route": [
+        17,
+        7,
+        32,
+        25,
+        16,
+        20,
+        46,
+        30,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 9,
+      "route": [
+        7,
+        32,
+        20,
+        46,
+        30,
+        25,
+        16,
+        6,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 10,
+      "route": [
+        32,
+        20,
+        30,
+        25,
+        16,
+        35,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 11,
+      "route": [
+        20,
+        30,
+        25,
+        16,
+        35,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 12,
+      "route": [
+        30,
+        25,
+        16,
+        35,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 13,
+      "route": [
+        25,
+        16,
+        35,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 14,
+      "route": [
+        16,
+        35,
+        6,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 15,
+      "route": [
+        35,
+        6,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 16,
+      "route": [
+        6,
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 17,
+      "route": [
+        43,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_18/depth_3",
+      "call": 18,
+      "route": [
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        17,
+        3,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 1,
+      "route": [
+        1,
+        3,
+        5,
+        17,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 2,
+      "route": [
+        3,
+        5,
+        17,
+        2,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 3,
+      "route": [
+        5,
+        17,
+        2,
+        16,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 4,
+      "route": [
+        17,
+        2,
+        16,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 5,
+      "route": [
+        2,
+        16,
+        18,
+        22,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 6,
+      "route": [
+        16,
+        38,
+        23,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 7,
+      "route": [
+        38,
+        7,
+        18,
+        26,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 8,
+      "route": [
+        7,
+        37,
+        18,
+        26,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 9,
+      "route": [
+        37,
+        26,
+        11,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 10,
+      "route": [
+        26,
+        15,
+        11,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 11,
+      "route": [
+        15,
+        35,
+        18,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 12,
+      "route": [
+        35,
+        18,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 13,
+      "route": [
+        18,
+        44,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 14,
+      "route": [
+        44,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_2",
+      "call": 15,
+      "route": [
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        17,
+        5,
+        3,
+        2,
+        16,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 1,
+      "route": [
+        1,
+        3,
+        2,
+        17,
+        5,
+        18,
+        16,
+        22,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 2,
+      "route": [
+        3,
+        5,
+        17,
+        2,
+        16,
+        38,
+        23,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 3,
+      "route": [
+        5,
+        17,
+        2,
+        16,
+        18,
+        23,
+        22,
+        7,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 4,
+      "route": [
+        17,
+        2,
+        18,
+        23,
+        16,
+        22,
+        7,
+        37,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 5,
+      "route": [
+        2,
+        18,
+        24,
+        16,
+        23,
+        22,
+        7,
+        37,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 6,
+      "route": [
+        18,
+        24,
+        16,
+        22,
+        8,
+        10,
+        26,
+        7,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 7,
+      "route": [
+        24,
+        16,
+        23,
+        22,
+        7,
+        10,
+        26,
+        37,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 8,
+      "route": [
+        16,
+        29,
+        8,
+        22,
+        10,
+        26,
+        7,
+        37,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 9,
+      "route": [
+        29,
+        8,
+        22,
+        38,
+        36,
+        7,
+        26,
+        37,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 10,
+      "route": [
+        8,
+        22,
+        38,
+        36,
+        7,
+        37,
+        26,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 11,
+      "route": [
+        22,
+        38,
+        36,
+        20,
+        26,
+        37,
+        7,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 12,
+      "route": [
+        38,
+        10,
+        31,
+        20,
+        36,
+        7,
+        19,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 13,
+      "route": [
+        10,
+        36,
+        7,
+        19,
+        37,
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 14,
+      "route": [
+        36,
+        7,
+        19,
+        37,
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 15,
+      "route": [
+        7,
+        19,
+        37,
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 16,
+      "route": [
+        19,
+        37,
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 17,
+      "route": [
+        37,
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 18,
+      "route": [
+        12,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_19/depth_3",
+      "call": 19,
+      "route": [
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        2,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 1,
+      "route": [
+        1,
+        2,
+        3,
+        18,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 2,
+      "route": [
+        2,
+        3,
+        18,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 3,
+      "route": [
+        3,
+        18,
+        15,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 4,
+      "route": [
+        18,
+        15,
+        5,
+        24,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 5,
+      "route": [
+        15,
+        5,
+        24,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 6,
+      "route": [
+        5,
+        24,
+        10,
+        41,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 7,
+      "route": [
+        24,
+        10,
+        21,
+        41,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 8,
+      "route": [
+        10,
+        21,
+        6,
+        41,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 9,
+      "route": [
+        21,
+        41,
+        13,
+        29,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 10,
+      "route": [
+        41,
+        6,
+        13,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 11,
+      "route": [
+        6,
+        13,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 12,
+      "route": [
+        13,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_2",
+      "call": 13,
+      "route": [
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        3,
+        2,
+        5,
+        15,
+        18,
+        24,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 1,
+      "route": [
+        1,
+        2,
+        3,
+        18,
+        15,
+        5,
+        24,
+        10,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 2,
+      "route": [
+        2,
+        3,
+        18,
+        15,
+        5,
+        24,
+        10,
+        41,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 3,
+      "route": [
+        3,
+        18,
+        15,
+        5,
+        24,
+        10,
+        21,
+        41,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 4,
+      "route": [
+        18,
+        5,
+        15,
+        10,
+        24,
+        21,
+        41,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 5,
+      "route": [
+        5,
+        15,
+        10,
+        24,
+        21,
+        14,
+        41,
+        29,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 6,
+      "route": [
+        15,
+        24,
+        21,
+        10,
+        14,
+        41,
+        7,
+        29,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 7,
+      "route": [
+        24,
+        21,
+        10,
+        14,
+        41,
+        43,
+        9,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 8,
+      "route": [
+        21,
+        10,
+        14,
+        41,
+        13,
+        25,
+        20,
+        7,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 9,
+      "route": [
+        10,
+        26,
+        14,
+        41,
+        13,
+        25,
+        20,
+        7,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 10,
+      "route": [
+        26,
+        14,
+        41,
+        6,
+        13,
+        7,
+        20,
+        29,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 11,
+      "route": [
+        14,
+        41,
+        6,
+        13,
+        29,
+        20,
+        7,
+        12,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 12,
+      "route": [
+        41,
+        6,
+        43,
+        29,
+        33,
+        7,
+        20,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 13,
+      "route": [
+        6,
+        13,
+        45,
+        29,
+        47,
+        33,
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 14,
+      "route": [
+        13,
+        29,
+        12,
+        33,
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 15,
+      "route": [
+        29,
+        12,
+        42,
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 16,
+      "route": [
+        12,
+        33,
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 17,
+      "route": [
+        33,
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 18,
+      "route": [
+        7,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_20/depth_3",
+      "call": 19,
+      "route": [
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        19,
+        15,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 1,
+      "route": [
+        1,
+        19,
+        2,
+        15,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 2,
+      "route": [
+        19,
+        2,
+        15,
+        31,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 3,
+      "route": [
+        2,
+        15,
+        31,
+        24,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 4,
+      "route": [
+        15,
+        24,
+        31,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 5,
+      "route": [
+        24,
+        25,
+        14,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 6,
+      "route": [
+        25,
+        5,
+        23,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 7,
+      "route": [
+        5,
+        9,
+        14,
+        23,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 8,
+      "route": [
+        9,
+        8,
+        23,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 9,
+      "route": [
+        8,
+        23,
+        14,
+        31,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 10,
+      "route": [
+        23,
+        28,
+        47,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 11,
+      "route": [
+        28,
+        12,
+        31,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 12,
+      "route": [
+        12,
+        14,
+        31,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 13,
+      "route": [
+        14,
+        31,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_2",
+      "call": 14,
+      "route": [
+        31,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        19,
+        2,
+        15,
+        24,
+        31,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 1,
+      "route": [
+        1,
+        19,
+        2,
+        15,
+        14,
+        24,
+        25,
+        5,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 2,
+      "route": [
+        19,
+        2,
+        15,
+        24,
+        14,
+        5,
+        25,
+        23,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 3,
+      "route": [
+        2,
+        15,
+        25,
+        24,
+        14,
+        5,
+        9,
+        23,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 4,
+      "route": [
+        15,
+        5,
+        24,
+        31,
+        9,
+        23,
+        14,
+        46,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 5,
+      "route": [
+        5,
+        24,
+        46,
+        31,
+        23,
+        9,
+        8,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 6,
+      "route": [
+        24,
+        14,
+        31,
+        46,
+        23,
+        8,
+        45,
+        29,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 7,
+      "route": [
+        14,
+        31,
+        46,
+        13,
+        9,
+        17,
+        8,
+        23,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 8,
+      "route": [
+        31,
+        12,
+        23,
+        8,
+        45,
+        29,
+        44,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 9,
+      "route": [
+        12,
+        7,
+        23,
+        8,
+        45,
+        29,
+        44,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 10,
+      "route": [
+        7,
+        23,
+        36,
+        8,
+        9,
+        29,
+        44,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 11,
+      "route": [
+        23,
+        36,
+        8,
+        26,
+        9,
+        13,
+        44,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 12,
+      "route": [
+        36,
+        8,
+        26,
+        9,
+        13,
+        44,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 13,
+      "route": [
+        8,
+        26,
+        9,
+        42,
+        13,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 14,
+      "route": [
+        26,
+        9,
+        13,
+        44,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 15,
+      "route": [
+        9,
+        13,
+        44,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 16,
+      "route": [
+        13,
+        44,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 17,
+      "route": [
+        44,
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 18,
+      "route": [
+        16,
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_21/depth_3",
+      "call": 19,
+      "route": [
+        25,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        3,
+        8,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 1,
+      "route": [
+        1,
+        3,
+        2,
+        8,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 2,
+      "route": [
+        3,
+        8,
+        16,
+        2,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 3,
+      "route": [
+        8,
+        16,
+        2,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 4,
+      "route": [
+        16,
+        2,
+        21,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 5,
+      "route": [
+        2,
+        21,
+        14,
+        15,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 6,
+      "route": [
+        21,
+        15,
+        14,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 7,
+      "route": [
+        15,
+        14,
+        13,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 8,
+      "route": [
+        14,
+        18,
+        19,
+        13,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 9,
+      "route": [
+        18,
+        17,
+        19,
+        13,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 10,
+      "route": [
+        17,
+        13,
+        30,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 11,
+      "route": [
+        13,
+        30,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 12,
+      "route": [
+        30,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_2",
+      "call": 13,
+      "route": [
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 0,
+      "route": [
+        0,
+        1,
+        3,
+        8,
+        16,
+        2,
+        21,
+        14,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 1,
+      "route": [
+        1,
+        3,
+        8,
+        16,
+        2,
+        21,
+        14,
+        15,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 2,
+      "route": [
+        3,
+        8,
+        16,
+        2,
+        15,
+        14,
+        21,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 3,
+      "route": [
+        8,
+        16,
+        2,
+        21,
+        14,
+        15,
+        13,
+        19,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 4,
+      "route": [
+        16,
+        2,
+        21,
+        14,
+        15,
+        19,
+        18,
+        13,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 5,
+      "route": [
+        2,
+        21,
+        14,
+        15,
+        19,
+        13,
+        18,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 6,
+      "route": [
+        21,
+        5,
+        15,
+        19,
+        13,
+        18,
+        14,
+        20,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 7,
+      "route": [
+        5,
+        15,
+        19,
+        32,
+        14,
+        18,
+        20,
+        13,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 8,
+      "route": [
+        15,
+        19,
+        32,
+        14,
+        18,
+        20,
+        13,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 9,
+      "route": [
+        19,
+        34,
+        17,
+        22,
+        14,
+        18,
+        20,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 10,
+      "route": [
+        34,
+        17,
+        4,
+        22,
+        14,
+        18,
+        20,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 11,
+      "route": [
+        17,
+        22,
+        14,
+        26,
+        18,
+        7,
+        20,
+        45,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 12,
+      "route": [
+        22,
+        40,
+        14,
+        26,
+        18,
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 13,
+      "route": [
+        40,
+        14,
+        26,
+        18,
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 14,
+      "route": [
+        14,
+        26,
+        18,
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 15,
+      "route": [
+        26,
+        18,
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 16,
+      "route": [
+        18,
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 17,
+      "route": [
+        7,
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 18,
+      "route": [
+        20,
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    },
+    {
+      "run": "seed_22/depth_3",
+      "call": 19,
+      "route": [
+        42,
+        0
+      ],
+      "repeated_nodes": []
+    }
+  ]
+}

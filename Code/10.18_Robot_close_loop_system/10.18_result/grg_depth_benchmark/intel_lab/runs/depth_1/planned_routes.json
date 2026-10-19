@@ -1,0 +1,117 @@
+[
+  {
+    "iteration": 0,
+    "elapsed_s": 0.0,
+    "route": [
+      0,
+      0,
+      0
+    ],
+    "arrivals_s": [
+      30.021624999977803
+    ],
+    "finish_s": 35.0216249999778,
+    "gain": 0.412131587406877,
+    "runtime_s": 0.003586958999221679,
+    "evaluations": 30,
+    "gp_version": 0
+  },
+  {
+    "iteration": 1,
+    "elapsed_s": 35.0216249999778,
+    "route": [
+      0,
+      28,
+      0
+    ],
+    "arrivals_s": [
+      236.75153400003524
+    ],
+    "finish_s": 313.1801054286067,
+    "gain": 0.3200936016995781,
+    "runtime_s": 0.0035879159986507148,
+    "evaluations": 30,
+    "gp_version": 1
+  },
+  {
+    "iteration": 2,
+    "elapsed_s": 241.75153400002202,
+    "route": [
+      28,
+      19,
+      0
+    ],
+    "arrivals_s": [
+      388.92566499998225
+    ],
+    "finish_s": 453.92566499998225,
+    "gain": 0.3299369017905684,
+    "runtime_s": 0.0036342080020403955,
+    "evaluations": 30,
+    "gp_version": 2
+  },
+  {
+    "iteration": 3,
+    "elapsed_s": 393.9256649999984,
+    "route": [
+      19,
+      25,
+      0
+    ],
+    "arrivals_s": [
+      507.2679129999699
+    ],
+    "finish_s": 611.7530705810974,
+    "gain": 0.2995750378289866,
+    "runtime_s": 0.0037426669987326022,
+    "evaluations": 29,
+    "gp_version": 3
+  },
+  {
+    "iteration": 4,
+    "elapsed_s": 512.2679129999763,
+    "route": [
+      25,
+      11,
+      0
+    ],
+    "arrivals_s": [
+      626.0490949999905
+    ],
+    "finish_s": 666.5182766067708,
+    "gain": 0.2812289202406922,
+    "runtime_s": 0.003546416999597568,
+    "evaluations": 29,
+    "gp_version": 4
+  },
+  {
+    "iteration": 5,
+    "elapsed_s": 631.0490950000078,
+    "route": [
+      11,
+      0,
+      0
+    ],
+    "arrivals_s": [
+      865.2592039999831
+    ],
+    "finish_s": 870.2592039999831,
+    "gain": 0.2539711464162436,
+    "runtime_s": 0.0038441659999080002,
+    "evaluations": 27,
+    "gp_version": 5
+  },
+  {
+    "iteration": 6,
+    "elapsed_s": 870.2592039999802,
+    "route": [
+      0
+    ],
+    "arrivals_s": [],
+    "finish_s": 870.2592039999802,
+    "gain": 0.0,
+    "runtime_s": 0.0002916670018748846,
+    "evaluations": 1,
+    "gp_version": 6
+  }
+]

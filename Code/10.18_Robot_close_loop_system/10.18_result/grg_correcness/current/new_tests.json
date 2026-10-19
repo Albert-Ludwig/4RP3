@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "count": 8,
+  "failures": 0,
+  "errors": 0,
+  "tests": [
+    {
+      "test": "test_recursive.RecursiveChecks.test_01_bounded_exhaustive_repeated_routes",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_02_recursive_deadlines_prefixes_and_junctions",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_03_consecutive_nonconsecutive_and_previous_visits",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_04_cache_depth_time_prefix_order_and_posterior",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_05_joint_mi_history_online_and_temporal_covariance",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_06_zero_distance_dwell_exact_budget_and_return",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_07_candidates_and_one_top_level_failure_cycle",
+      "status": "PASS"
+    },
+    {
+      "test": "test_recursive.RecursiveChecks.test_08_obstacle_paths_and_previous_depth3_reproduction",
+      "status": "PASS"
+    }
+  ]
+}

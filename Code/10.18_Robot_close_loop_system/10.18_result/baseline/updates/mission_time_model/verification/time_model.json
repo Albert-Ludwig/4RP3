@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checks": {
+    "online_computation_zero": true,
+    "three_term_sum": true,
+    "clock_matches_total": true,
+    "main_acceptance": true,
+    "unchanged_online_measurements.csv": true,
+    "unchanged_robot_trajectory.csv": true,
+    "unchanged_metrics.csv": true,
+    "zero_per_call_charge": true
+  },
+  "time_breakdown": {
+    "travel_s": 823.8579669298437,
+    "sampling_s": 75.0,
+    "online_computation_s": 0.0,
+    "total_s": 898.8579669298437
+  }
+}

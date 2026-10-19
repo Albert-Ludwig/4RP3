@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checks": {
+    "history_no_future": true,
+    "at_least_three_samples": true,
+    "all_observations_retained": true,
+    "parameters_fixed": true,
+    "variance_nonincreasing": true,
+    "budget_respected": true,
+    "returned_home": true,
+    "trajectory_collision_free": true,
+    "all_plans_feasible": true,
+    "replan_after_every_measurement": true,
+    "actual_arrivals_used": true,
+    "travel_estimate_matches_execution": true,
+    "gain_chain_rule": true,
+    "multiple_gp_updates": true
+  }
+}

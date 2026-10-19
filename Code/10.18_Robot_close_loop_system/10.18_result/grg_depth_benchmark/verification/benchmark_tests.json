@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "count": 6,
+  "tests": [
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_completed_missions_and_waypoint_bound",
+      "status": "passed",
+      "runtime_s": 0.001313875000050757
+    },
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_depth_two_reproduces_baseline",
+      "status": "passed",
+      "runtime_s": 6.458300049416721e-05
+    },
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_mission_wall_timeout_stops_worker",
+      "status": "passed",
+      "runtime_s": 0.230638082997757
+    },
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_only_depth_changes_and_initial_checkpoint_is_shared",
+      "status": "passed",
+      "runtime_s": 0.003660542002762668
+    },
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_original_baseline_files_are_preserved",
+      "status": "passed",
+      "runtime_s": 0.09941987500133109
+    },
+    {
+      "test": "test_benchmark.DepthBenchmarkTests.test_planning_timeout_stops_worker",
+      "status": "passed",
+      "runtime_s": 0.2851679999985208
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "SUCCESS",
+  "depth": 1,
+  "route": [
+    0,
+    0,
+    0
+  ],
+  "arrivals_s": [
+    30.021624999977803
+  ],
+  "finish_s": 35.0216249999778,
+  "gain": 0.412131587406877,
+  "runtime_s": 0.003599875002691988,
+  "evaluations": 30,
+  "gp_version": 0
+}

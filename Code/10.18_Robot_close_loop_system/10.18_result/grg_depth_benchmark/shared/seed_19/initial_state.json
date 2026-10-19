@@ -1,0 +1,8 @@
+{
+  "seed": 19,
+  "origin": "loaded existing baseline checkpoint; no retraining",
+  "observations": 100,
+  "online_count": 0,
+  "elapsed_s": 0,
+  "initial_rmse_c": 0.04152760661120605
+}

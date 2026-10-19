@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": {
+    "returned_home": true,
+    "within_budget": true,
+    "clock_accounting": true,
+    "unique_record_ids": true,
+    "no_evaluation_leakage": true,
+    "gp_observation_count": true,
+    "only_successful_gp_updates": true,
+    "parameters_frozen": true,
+    "all_plans_feasible": true,
+    "reward_chain_rule": true,
+    "chronological_measurements": true,
+    "path_collision_free": true
+  }
+}

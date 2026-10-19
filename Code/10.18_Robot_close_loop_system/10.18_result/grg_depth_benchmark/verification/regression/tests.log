@@ -1,0 +1,27 @@
+test_candidates_reachable_repeatable (test_components.TestAEnvironment.test_candidates_reachable_repeatable) ... ok
+test_edges_and_no_corner_cutting (test_components.TestAEnvironment.test_edges_and_no_corner_cutting) ... ok
+test_invalid_requests (test_components.TestAEnvironment.test_invalid_requests) ... ok
+test_map_and_footprint (test_components.TestAEnvironment.test_map_and_footprint) ... ok
+test_motion_cost_and_return (test_components.TestAEnvironment.test_motion_cost_and_return) ... ok
+test_append_fixed_parameters_and_variance (test_components.TestBPosterior.test_append_fixed_parameters_and_variance) ... ok
+test_future_history_and_invalid_measurement_rejected (test_components.TestBPosterior.test_future_history_and_invalid_measurement_rejected) ... ok
+test_joint_matches_conditioning_and_scaled_units (test_components.TestBPosterior.test_joint_matches_conditioning_and_scaled_units) ... ok
+test_temperature_changes_mean_not_covariance (test_components.TestBPosterior.test_temperature_changes_mean_not_covariance) ... ok
+test_information_gain_correlations (test_components.TestCGRG.test_information_gain_correlations) ... ok
+test_recursive_search_budget_and_updated_posterior (test_components.TestCGRG.test_recursive_search_budget_and_updated_posterior) ... ok
+test_route_covariance_is_posterior_and_time_dependent (test_components.TestCGRG.test_route_covariance_is_posterior_and_time_dependent) ... ok
+test_visited_nodes_and_configurable_revisit (test_components.TestCGRG.test_visited_nodes_and_configurable_revisit) ... ok
+test_actual_navigation_clock_used (test_system.TestDClosedLoop.test_actual_navigation_clock_used) ... ok
+test_full_loop_and_repeated_run (test_system.TestDClosedLoop.test_full_loop_and_repeated_run) ... ok
+test_fixed_query_variance_and_latent_coverage (test_system.TestEEvaluation.test_fixed_query_variance_and_latent_coverage) ... ok
+test_core_modules_have_no_truth_or_ros_import (test_system.TestFInterfaces.test_core_modules_have_no_truth_or_ros_import) ... ok
+test_empty_navigation_path (test_system.TestFInterfaces.test_empty_navigation_path) ... ok
+test_empty_plan_and_insufficient_budget (test_system.TestFInterfaces.test_empty_plan_and_insufficient_budget) ... ok
+test_failed_navigation_does_not_measure (test_system.TestFInterfaces.test_failed_navigation_does_not_measure) ... ok
+test_invalid_sensor_and_wrong_timestamp (test_system.TestFInterfaces.test_invalid_sensor_and_wrong_timestamp) ... ok
+test_partial_navigation_failure_returns_from_actual_position (test_system.TestFInterfaces.test_partial_navigation_failure_returns_from_actual_position) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 3.234s
+
+OK

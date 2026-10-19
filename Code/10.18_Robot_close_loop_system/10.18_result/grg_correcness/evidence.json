@@ -1,0 +1,1543 @@
+{
+  "exhaustive": [
+    {
+      "sampling_nodes": 3,
+      "depth": 1,
+      "feasible_unique_routes": 16,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036
+      ],
+      "finish_s": 91.15614438310072,
+      "gain": 2.239289249791688,
+      "independent_gain": 2.2392892497917187,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 5.3811503858687795,
+      "optimality_gap": 3.1418611360770607
+    },
+    {
+      "sampling_nodes": 3,
+      "depth": 2,
+      "feasible_unique_routes": 16,
+      "route": [
+        0,
+        3,
+        1,
+        2,
+        0
+      ],
+      "arrivals_s": [
+        113.2380803664362,
+        178.30606905680372,
+        240.0187354604586
+      ],
+      "finish_s": 326.2339949093266,
+      "gain": 5.381150385868354,
+      "independent_gain": 5.381150385868397,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 5.3811503858687795,
+      "optimality_gap": 3.82804898890754e-13
+    },
+    {
+      "sampling_nodes": 3,
+      "depth": 3,
+      "feasible_unique_routes": 16,
+      "route": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "arrivals_s": [
+        113.2380803664362,
+        178.30606905680372,
+        240.0187354604586,
+        296.1288606604538
+      ],
+      "finish_s": 377.36694102689,
+      "gain": 5.735072531236977,
+      "independent_gain": 5.7350725312358835,
+      "no_revisit_valid": false,
+      "in_feasible_unique_reference": false,
+      "unique_optimum_gain": 5.3811503858687795,
+      "optimality_gap": null
+    },
+    {
+      "sampling_nodes": 4,
+      "depth": 1,
+      "feasible_unique_routes": 65,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036
+      ],
+      "finish_s": 91.15614438310072,
+      "gain": 2.239289249791697,
+      "independent_gain": 2.2392892497917187,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 7.432590627507315,
+      "optimality_gap": 5.193301377715596
+    },
+    {
+      "sampling_nodes": 4,
+      "depth": 2,
+      "feasible_unique_routes": 65,
+      "route": [
+        0,
+        3,
+        4,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        113.2380803664362,
+        199.05028393061306,
+        258.4111341890143
+      ],
+      "finish_s": 287.98920638056467,
+      "gain": 6.523446294153491,
+      "independent_gain": 6.523446294153498,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 7.432590627507315,
+      "optimality_gap": 0.909144333353817
+    },
+    {
+      "sampling_nodes": 4,
+      "depth": 3,
+      "feasible_unique_routes": 65,
+      "route": [
+        0,
+        1,
+        4,
+        2,
+        1,
+        3,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036,
+        120.93892244995163,
+        162.07923856616168,
+        223.79190496981656,
+        288.85989366018407
+      ],
+      "finish_s": 370.09797402662025,
+      "gain": 7.752935676935367,
+      "independent_gain": 7.752935676934384,
+      "no_revisit_valid": false,
+      "in_feasible_unique_reference": false,
+      "unique_optimum_gain": 7.432590627507315,
+      "optimality_gap": null
+    },
+    {
+      "sampling_nodes": 5,
+      "depth": 1,
+      "feasible_unique_routes": 326,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036
+      ],
+      "finish_s": 91.15614438310072,
+      "gain": 2.239289249791697,
+      "independent_gain": 2.2392892497917187,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 9.241298502954137,
+      "optimality_gap": 7.002009253162418
+    },
+    {
+      "sampling_nodes": 5,
+      "depth": 2,
+      "feasible_unique_routes": 326,
+      "route": [
+        0,
+        3,
+        4,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        113.2380803664362,
+        199.05028393061306,
+        258.4111341890143
+      ],
+      "finish_s": 287.98920638056467,
+      "gain": 6.523446294153493,
+      "independent_gain": 6.523446294153498,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 9.241298502954137,
+      "optimality_gap": 2.7178522088006396
+    },
+    {
+      "sampling_nodes": 5,
+      "depth": 3,
+      "feasible_unique_routes": 326,
+      "route": [
+        0,
+        1,
+        3,
+        5,
+        1,
+        4,
+        2,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036,
+        126.6460608819179,
+        169.76510106513598,
+        200.32016366513358,
+        259.68101392353486,
+        300.8213300397449
+      ],
+      "finish_s": 387.0365894886129,
+      "gain": 9.551199026512997,
+      "independent_gain": 9.551199026515876,
+      "no_revisit_valid": false,
+      "in_feasible_unique_reference": false,
+      "unique_optimum_gain": 9.241298502954137,
+      "optimality_gap": null
+    },
+    {
+      "sampling_nodes": 6,
+      "depth": 1,
+      "feasible_unique_routes": 1955,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036
+      ],
+      "finish_s": 91.15614438310072,
+      "gain": 2.239289249791697,
+      "independent_gain": 2.2392892497917187,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 10.792123251436578,
+      "optimality_gap": 8.55283400164486
+    },
+    {
+      "sampling_nodes": 6,
+      "depth": 2,
+      "feasible_unique_routes": 1955,
+      "route": [
+        0,
+        3,
+        4,
+        1,
+        0
+      ],
+      "arrivals_s": [
+        113.2380803664362,
+        199.05028393061306,
+        258.4111341890143
+      ],
+      "finish_s": 287.98920638056467,
+      "gain": 6.523446294153493,
+      "independent_gain": 6.523446294153498,
+      "no_revisit_valid": true,
+      "in_feasible_unique_reference": true,
+      "unique_optimum_gain": 10.792123251436578,
+      "optimality_gap": 4.2686769572830805
+    },
+    {
+      "sampling_nodes": 6,
+      "depth": 3,
+      "feasible_unique_routes": 1955,
+      "route": [
+        0,
+        1,
+        3,
+        5,
+        1,
+        6,
+        4,
+        2,
+        0
+      ],
+      "arrivals_s": [
+        61.57807219155036,
+        126.6460608819179,
+        169.76510106513598,
+        200.32016366513358,
+        280.0987483982901,
+        333.6701769697187,
+        374.8104930859287
+      ],
+      "finish_s": 461.0257525347967,
+      "gain": 11.085368022733288,
+      "independent_gain": 11.085368022733645,
+      "no_revisit_valid": false,
+      "in_feasible_unique_reference": false,
+      "unique_optimum_gain": 10.792123251436578,
+      "optimality_gap": null
+    }
+  ],
+  "recursive_calls": [
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 179.03195887785128,
+      "depth": 1,
+      "route": [
+        1,
+        3
+      ],
+      "finish_s": 148.06798869036754
+    },
+    {
+      "prefix": [
+        1,
+        3
+      ],
+      "end": 2,
+      "deadline_s": 297.0700244528139,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "finish_s": 275.02050837075444
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 209.995929065335,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        3
+      ],
+      "finish_s": 200.82279160365007
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        3
+      ],
+      "end": 2,
+      "deadline_s": 297.0700244528139,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        3,
+        2
+      ],
+      "finish_s": 256.9329168036453
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 180.2171362844688,
+      "depth": 1,
+      "route": [
+        1,
+        4
+      ],
+      "finish_s": 142.36085025840129
+    },
+    {
+      "prefix": [
+        1,
+        4
+      ],
+      "end": 2,
+      "deadline_s": 297.0700244528139,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 284.28317902257334
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 218.07342231053633,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4
+      ],
+      "finish_s": 185.85298251986492
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4
+      ],
+      "end": 2,
+      "deadline_s": 297.0700244528139,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4,
+        2
+      ],
+      "finish_s": 226.99329863607497
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 297.0700244528139,
+      "depth": 2,
+      "route": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 284.28317902257334
+    },
+    {
+      "prefix": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        4,
+        3,
+        2,
+        0
+      ],
+      "finish_s": 365.4984384714413
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 229.8177448942376,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3
+      ],
+      "finish_s": 228.17305382257814
+    },
+    {
+      "prefix": [
+        1,
+        4,
+        3
+      ],
+      "end": 2,
+      "deadline_s": 449.42738250197294,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 284.28317902257334
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 311.56750109810764,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3
+      ],
+      "finish_s": 228.17305382257814
+    },
+    {
+      "prefix": [
+        1,
+        4,
+        3
+      ],
+      "end": 2,
+      "deadline_s": 449.42738250197294,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 284.28317902257334
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 231.00292230085518,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4
+      ],
+      "finish_s": 185.85298251986492
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4
+      ],
+      "end": 2,
+      "deadline_s": 449.42738250197294,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 327.775311284037
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 319.644994343309,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        4
+      ],
+      "finish_s": 233.8801922545444
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        4
+      ],
+      "end": 2,
+      "deadline_s": 449.42738250197294,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "finish_s": 275.02050837075444
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 449.42738250197294,
+      "depth": 2,
+      "route": [
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "finish_s": 327.775311284037
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        2,
+        4,
+        3,
+        2,
+        0
+      ],
+      "finish_s": 408.990570732905
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 178.09372442624917,
+      "depth": 1,
+      "route": [
+        1,
+        2
+      ],
+      "finish_s": 144.71266640365488
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 3,
+      "deadline_s": 300.96596567143297,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 271.6651860840418
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 211.47478244884348,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "deadline_s": 300.96596567143297,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        3
+      ],
+      "finish_s": 260.28823909035793
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 166.62515420801955,
+      "depth": 1,
+      "route": [
+        1,
+        4
+      ],
+      "finish_s": 142.36085025840129
+    },
+    {
+      "prefix": [
+        1,
+        4
+      ],
+      "end": 3,
+      "deadline_s": 300.96596567143297,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        2,
+        3
+      ],
+      "finish_s": 239.61129157460653
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 190.88945815763785,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4
+      ],
+      "finish_s": 185.85298251986492
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4
+      ],
+      "end": 3,
+      "deadline_s": 300.96596567143297,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 271.6651860840418
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 300.96596567143297,
+      "depth": 2,
+      "route": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 271.6651860840418
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        2,
+        4,
+        3,
+        0
+      ],
+      "finish_s": 347.903266450478
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 229.059716753271,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "deadline_s": 453.8639426524984,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 331.13063357074964
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 313.4067671028871,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 3,
+      "deadline_s": 453.8639426524984,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 331.13063357074964
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 217.5911465350414,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4
+      ],
+      "finish_s": 185.85298251986492
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        4
+      ],
+      "end": 3,
+      "deadline_s": 453.8639426524984,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "finish_s": 271.6651860840418
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 292.82144281168144,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        4
+      ],
+      "finish_s": 233.8801922545444
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        4
+      ],
+      "end": 3,
+      "deadline_s": 453.8639426524984,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        4,
+        2,
+        3
+      ],
+      "finish_s": 331.13063357074964
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 453.8639426524984,
+      "depth": 2,
+      "route": [
+        1,
+        3,
+        4,
+        2,
+        3
+      ],
+      "finish_s": 331.13063357074964
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        4,
+        2,
+        3
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        3,
+        4,
+        2,
+        3,
+        0
+      ],
+      "finish_s": 407.3687139371858
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 181.8154078026295,
+      "depth": 1,
+      "route": [
+        1,
+        2
+      ],
+      "finish_s": 144.71266640365488
+    },
+    {
+      "prefix": [
+        1,
+        2
+      ],
+      "end": 4,
+      "deadline_s": 297.1612067167888,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "finish_s": 286.63499516782696
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 218.91814920160414,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 4,
+      "deadline_s": 297.1612067167888,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 169.16166017778235,
+      "depth": 1,
+      "route": [
+        1,
+        3
+      ],
+      "finish_s": 148.06798869036754
+    },
+    {
+      "prefix": [
+        1,
+        3
+      ],
+      "end": 4,
+      "deadline_s": 297.1612067167888,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 190.25533166519713,
+      "depth": 1,
+      "route": [
+        1,
+        3
+      ],
+      "finish_s": 148.06798869036754
+    },
+    {
+      "prefix": [
+        1,
+        3
+      ],
+      "end": 4,
+      "deadline_s": 297.1612067167888,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 297.1612067167888,
+      "depth": 2,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        3,
+        2,
+        4,
+        0
+      ],
+      "finish_s": 321.55651037300896
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 233.415526622092,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 4,
+      "deadline_s": 451.9615631751763,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 2,
+      "deadline_s": 322.1183868405291,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2
+      ],
+      "finish_s": 204.17811389036274
+    },
+    {
+      "prefix": [
+        1,
+        3,
+        2
+      ],
+      "end": 4,
+      "deadline_s": 451.9615631751763,
+      "depth": 1,
+      "route": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 245.31843000657278
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 220.76177899724485,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        3
+      ],
+      "finish_s": 200.82279160365007
+    },
+    {
+      "prefix": [
+        1,
+        2,
+        3
+      ],
+      "end": 4,
+      "deadline_s": 451.9615631751763,
+      "depth": 1,
+      "route": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "finish_s": 286.63499516782696
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 3,
+      "deadline_s": 293.45556930412215,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3
+      ],
+      "finish_s": 228.17305382257814
+    },
+    {
+      "prefix": [
+        1,
+        4,
+        3
+      ],
+      "end": 4,
+      "deadline_s": 451.9615631751763,
+      "depth": 1,
+      "route": [
+        1,
+        4,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 325.4234951387834
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 4,
+      "deadline_s": 451.9615631751763,
+      "depth": 2,
+      "route": [
+        1,
+        4,
+        3,
+        2,
+        4
+      ],
+      "finish_s": 325.4234951387834
+    },
+    {
+      "prefix": [
+        1,
+        4,
+        3,
+        2,
+        4
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 2,
+      "route": [
+        1,
+        4,
+        3,
+        2,
+        4,
+        0
+      ],
+      "finish_s": 401.66157550521956
+    },
+    {
+      "prefix": [
+        1
+      ],
+      "end": 0,
+      "deadline_s": 683,
+      "depth": 3,
+      "route": [
+        1,
+        3,
+        4,
+        2,
+        3,
+        0
+      ],
+      "finish_s": 407.3687139371858
+    }
+  ],
+  "cache": [
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 600,
+      "gp_version": 0,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "gain": 2.2354990769618888,
+      "cached_evaluations": 5,
+      "uncached_distinct_routes": 5,
+      "cached_scored_routes": 5,
+      "uncached_scored_routes": 6,
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 500,
+      "remaining_s": 420,
+      "gp_version": 0,
+      "route": [
+        0,
+        1,
+        0
+      ],
+      "gain": 2.2862668032480933,
+      "cached_evaluations": 5,
+      "uncached_distinct_routes": 5,
+      "cached_scored_routes": 5,
+      "uncached_scored_routes": 6,
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 1,
+      "elapsed_s": 150,
+      "remaining_s": 450,
+      "gp_version": 0,
+      "route": [
+        1,
+        4,
+        0
+      ],
+      "gain": 2.0410334043012,
+      "cached_evaluations": 3,
+      "uncached_distinct_routes": 3,
+      "cached_scored_routes": 3,
+      "uncached_scored_routes": 4,
+      "matched": true
+    },
+    {
+      "depth": 1,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 1,
+      "gp_version": 0,
+      "route": [
+        0
+      ],
+      "gain": 0.0,
+      "cached_evaluations": 1,
+      "uncached_distinct_routes": 1,
+      "cached_scored_routes": 1,
+      "uncached_scored_routes": 2,
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 600,
+      "gp_version": 0,
+      "route": [
+        0,
+        3,
+        4,
+        1,
+        0
+      ],
+      "gain": 6.5143362937805875,
+      "cached_evaluations": 29,
+      "uncached_distinct_routes": 29,
+      "cached_scored_routes": 29,
+      "uncached_scored_routes": 66,
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 500,
+      "remaining_s": 420,
+      "gp_version": 0,
+      "route": [
+        0,
+        3,
+        1,
+        4,
+        0
+      ],
+      "gain": 6.6316784330524605,
+      "cached_evaluations": 29,
+      "uncached_distinct_routes": 29,
+      "cached_scored_routes": 29,
+      "uncached_scored_routes": 66,
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 1,
+      "elapsed_s": 150,
+      "remaining_s": 450,
+      "gp_version": 0,
+      "route": [
+        1,
+        4,
+        2,
+        0
+      ],
+      "gain": 2.9452808336311342,
+      "cached_evaluations": 7,
+      "uncached_distinct_routes": 7,
+      "cached_scored_routes": 7,
+      "uncached_scored_routes": 18,
+      "matched": true
+    },
+    {
+      "depth": 2,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 1,
+      "gp_version": 0,
+      "route": [
+        0
+      ],
+      "gain": 0.0,
+      "cached_evaluations": 1,
+      "uncached_distinct_routes": 1,
+      "cached_scored_routes": 1,
+      "uncached_scored_routes": 2,
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 600,
+      "gp_version": 0,
+      "route": [
+        0,
+        1,
+        4,
+        2,
+        1,
+        3,
+        0
+      ],
+      "gain": 7.7393164669280345,
+      "cached_evaluations": 67,
+      "uncached_distinct_routes": 67,
+      "cached_scored_routes": 67,
+      "uncached_scored_routes": 316,
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 500,
+      "remaining_s": 420,
+      "gp_version": 0,
+      "route": [
+        0,
+        1,
+        4,
+        3,
+        1,
+        2,
+        0
+      ],
+      "gain": 7.942798973888336,
+      "cached_evaluations": 57,
+      "uncached_distinct_routes": 57,
+      "cached_scored_routes": 57,
+      "uncached_scored_routes": 295,
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 1,
+      "elapsed_s": 150,
+      "remaining_s": 450,
+      "gp_version": 0,
+      "route": [
+        1,
+        4,
+        2,
+        4,
+        0
+      ],
+      "gain": 3.2907598801503983,
+      "cached_evaluations": 10,
+      "uncached_distinct_routes": 10,
+      "cached_scored_routes": 10,
+      "uncached_scored_routes": 43,
+      "matched": true
+    },
+    {
+      "depth": 3,
+      "current": 0,
+      "elapsed_s": 0,
+      "remaining_s": 1,
+      "gp_version": 0,
+      "route": [
+        0
+      ],
+      "gain": 0.0,
+      "cached_evaluations": 1,
+      "uncached_distinct_routes": 1,
+      "cached_scored_routes": 1,
+      "uncached_scored_routes": 2,
+      "matched": true
+    }
+  ],
+  "defects": [
+    {
+      "id": "ancestor_endpoint_revisit",
+      "points": [
+        [
+          2.0,
+          2.0
+        ],
+        [
+          7.0,
+          9.0
+        ],
+        [
+          20.0,
+          24.0
+        ],
+        [
+          28.0,
+          8.0
+        ]
+      ],
+      "speed_m_s": 0.35,
+      "sample_s": 5,
+      "remaining_s": 900,
+      "depth": 3,
+      "allow_revisit": false,
+      "plan": {
+        "route": [
+          0,
+          3,
+          1,
+          2,
+          3,
+          0
+        ],
+        "arrivals_s": [
+          76.2380803664362,
+          141.30606905680372,
+          203.0187354604586,
+          259.1288606604538
+        ],
+        "finish_s": 340.36694102689,
+        "gain": 5.723809468332709,
+        "runtime_s": 0.0018790840003930498,
+        "evaluations": 23,
+        "gp_version": 0
+      },
+      "repeated_nodes": [
+        3
+      ],
+      "checkpoint": "10.18_result/baseline/main/initial_gp.pt"
+    }
+  ]
+}

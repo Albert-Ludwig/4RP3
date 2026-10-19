@@ -1,0 +1,43 @@
+{
+  "measurements": 15,
+  "planning_calls": 16,
+  "travel_distance_m": 288.35028842544386,
+  "travel_time_s": 823.8579669298437,
+  "sampling_time_s": 75.0,
+  "online_computation_time_s": 0.0,
+  "mission_time_s": 898.8579669298437,
+  "time_breakdown": {
+    "travel_s": 823.8579669298437,
+    "sampling_s": 75.0,
+    "online_computation_s": 0.0,
+    "total_s": 898.8579669298437
+  },
+  "candidate_failures": {
+    "permanent": {},
+    "temporary": {}
+  },
+  "elapsed_s": 898.8579669298437,
+  "budget_s": 900.0,
+  "returned_home": true,
+  "return_status": "arrived",
+  "stop_reason": "no_feasible_sampling_route",
+  "information_gain_nats": 30.255990672399648,
+  "grg_runtime_s": 1.0943744599935599,
+  "seed": 18,
+  "target_h": 12.25,
+  "historical_count": 100,
+  "candidate_count": 48,
+  "evaluation_count": 1393,
+  "initial_rmse_c": 0.053705155727613745,
+  "final_rmse_c": 0.018171037179237993,
+  "initial_variance_c2": 0.007371087313386417,
+  "final_variance_c2": 0.0007700083904789483,
+  "initial_coverage95": 1.0,
+  "final_coverage95": 1.0,
+  "map_and_travel_precompute_s": 0.9510172919981414,
+  "gp_training_s": 0.38133983299849206,
+  "grg_covariance_query_s": 0.4157576628240349,
+  "covariance_batches": 2641,
+  "simulation_wall_s": 3.531014874999528,
+  "total_wall_s": 4.235043666998536
+}

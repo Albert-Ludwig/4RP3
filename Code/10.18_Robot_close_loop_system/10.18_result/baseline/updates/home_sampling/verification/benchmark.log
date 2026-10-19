@@ -1,0 +1,11 @@
+test_completed_missions_and_waypoint_bound (__main__.DepthBenchmarkTests.test_completed_missions_and_waypoint_bound) ... ok
+test_depth_two_reproduces_baseline (__main__.DepthBenchmarkTests.test_depth_two_reproduces_baseline) ... ok
+test_mission_wall_timeout_stops_worker (__main__.DepthBenchmarkTests.test_mission_wall_timeout_stops_worker) ... ok
+test_only_depth_changes_and_initial_checkpoint_is_shared (__main__.DepthBenchmarkTests.test_only_depth_changes_and_initial_checkpoint_is_shared) ... ok
+test_original_baseline_files_are_preserved (__main__.DepthBenchmarkTests.test_original_baseline_files_are_preserved) ... ok
+test_planning_timeout_stops_worker (__main__.DepthBenchmarkTests.test_planning_timeout_stops_worker) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.728s
+
+OK

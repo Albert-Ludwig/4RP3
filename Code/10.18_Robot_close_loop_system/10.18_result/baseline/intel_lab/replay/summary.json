@@ -1,0 +1,63 @@
+{
+  "measurements": 7,
+  "planning_calls": 8,
+  "travel_distance_m": 163.4888527117067,
+  "travel_time_s": 467.1110077477368,
+  "sampling_time_s": 403.1481962522298,
+  "measurement_wait_time_s": 368.1481962522298,
+  "dwell_time_s": 35.0,
+  "online_computation_time_s": 0.0,
+  "mission_time_s": 870.2592039999665,
+  "time_breakdown": {
+    "travel_s": 467.1110077477368,
+    "sampling_s": 403.1481962522298,
+    "online_computation_s": 0.0,
+    "total_s": 870.2592039999665
+  },
+  "candidate_failures": {
+    "permanent": {},
+    "temporary": {}
+  },
+  "elapsed_s": 870.2592039999666,
+  "budget_s": 900.0,
+  "returned_home": true,
+  "return_status": "arrived",
+  "stop_reason": "no_feasible_sampling_route",
+  "information_gain_nats": 2.152729113501047,
+  "grg_runtime_s": 2.9356974589973106,
+  "status": "SUCCESS",
+  "depth": 2,
+  "train_count": 2000,
+  "candidate_count": 29,
+  "evaluation_count": 28,
+  "evaluation_time_range_h": [
+    72.19963200361111,
+    72.24956030194444
+  ],
+  "initial_metrics": {
+    "elapsed_s": 0.0,
+    "measurement_count": 0,
+    "rmse_c": 0.4895778596619841,
+    "mae_c": 0.36891938986987516,
+    "coverage_95": 1.0,
+    "nlpd": 1.3370589437299392,
+    "interval_width_95_c": 5.622185540358425,
+    "z_mean": 0.031045953849598212,
+    "z_std": 0.33924304202552164,
+    "mean_variance_c2": 1.1152274111983556
+  },
+  "final_metrics": {
+    "elapsed_s": 870.2592039999666,
+    "measurement_count": 7,
+    "rmse_c": 0.5469072232785211,
+    "mae_c": 0.4170308670794724,
+    "coverage_95": 1.0,
+    "nlpd": 1.1856559638038708,
+    "interval_width_95_c": 4.594201215869639,
+    "z_mean": 0.19127606264971547,
+    "z_std": 0.42420678282726565,
+    "mean_variance_c2": 0.4301212486477947
+  },
+  "joint_mi_nats": 2.152729113501135,
+  "maximum_plan_schedule_error_s": 0.0
+}

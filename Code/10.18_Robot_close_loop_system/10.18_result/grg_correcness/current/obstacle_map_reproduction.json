@@ -1,0 +1,32 @@
+{
+  "original_route": [
+    0,
+    3,
+    1,
+    2,
+    3,
+    0
+  ],
+  "arrivals_s": [
+    81.38651821211016,
+    148.7534528542421,
+    211.9956708852428,
+    273.8513707041333
+  ],
+  "finish_s": 360.23788891624343,
+  "dwell_s": 20.0,
+  "event_count": 4,
+  "valid_revisit_route": true,
+  "current_route": [
+    0,
+    3,
+    0,
+    2,
+    1,
+    3,
+    0,
+    1,
+    0
+  ],
+  "interpretation": "Two explicit node-3 events with distinct times and dwells. The shared recursive junction is passed once in the prefix, not concatenated twice."
+}

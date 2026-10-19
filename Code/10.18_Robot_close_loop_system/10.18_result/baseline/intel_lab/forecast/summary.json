@@ -1,0 +1,19 @@
+{
+  "train_count": 2000,
+  "test_count": 90690,
+  "start_h": 72,
+  "training_s": 85.0279225000013,
+  "prediction_s": 34.50305700000172,
+  "total_s": 121.85810804200082,
+  "metrics": {
+    "rmse_c": 4.937474300343625,
+    "mae_c": 3.575282385172471,
+    "coverage_95": 0.9104531921931855,
+    "nlpd": 2.931663424208136,
+    "interval_width_95_c": 17.542636711072245,
+    "z_mean": 0.6078641204886641,
+    "z_std": 0.8399128517948085
+  },
+  "calibration_variance": "observation variance = latent variance + learned likelihood noise",
+  "experiment": "Fixed origin 24-hour forecast. No day-4 observation enters the GP."
+}
